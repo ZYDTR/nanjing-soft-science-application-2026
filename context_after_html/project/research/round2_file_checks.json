@@ -1,0 +1,32 @@
+[
+  {
+    "task": "collaboration_network",
+    "reading_level": "targeted",
+    "full_text_read": false,
+    "claims": 13,
+    "unique_ids": true,
+    "missing_assets": [],
+    "png_count": 16,
+    "skill_feedback_exists": true
+  },
+  {
+    "task": "efficiency_configuration",
+    "reading_level": "targeted",
+    "full_text_read": false,
+    "claims": 15,
+    "unique_ids": true,
+    "missing_assets": [],
+    "png_count": 19,
+    "skill_feedback_exists": true
+  },
+  {
+    "task": "plan_allocation",
+    "reading_level": "targeted",
+    "full_text_read": false,
+    "claims": 14,
+    "unique_ids": true,
+    "missing_assets": [],
+    "png_count": 38,
+    "skill_feedback_exists": true
+  }
+]

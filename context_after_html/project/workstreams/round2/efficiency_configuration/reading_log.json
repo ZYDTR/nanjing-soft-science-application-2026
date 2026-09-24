@@ -1,0 +1,352 @@
+{
+  "title": "科技创新资源配置效率测度及提升组态路径研究",
+  "author": "冯兆奎",
+  "year": 2023,
+  "source": "@repo/文献参考（老师找的）/科技创新资源配置效率测度及提升组态路径研究_冯兆奎.caj",
+  "readable_file": "@repo/context_after_html/project/workstreams/literature/converted/科技创新资源配置效率测度及提升组态路径研究_冯兆奎.pdf",
+  "conversion_log": "@repo/context_after_html/project/workstreams/literature/logs/16_convert.log",
+  "research_question": "省域DEA效率测度与fsQCA如何连接，能否迁移到南京地区及机构/项目层面的12个月软科学项目？",
+  "reading_level": "targeted",
+  "total_pages": 64,
+  "read_ranges": [
+    {
+      "physical_pages": "1-5",
+      "method": "native_text and page_image for 1,4",
+      "purpose": "封面、摘要、书目信息"
+    },
+    {
+      "physical_pages": "8-9",
+      "method": "native_text",
+      "purpose": "目录导航"
+    },
+    {
+      "physical_pages": "13-15",
+      "method": "native_text and page_image for 13",
+      "purpose": "研究内容和投入导向描述"
+    },
+    {
+      "physical_pages": "36-58",
+      "method": "native_text and page_image for key pages",
+      "purpose": "DEA模型、指标、结果、fsQCA、稳健性、作者局限"
+    }
+  ],
+  "page_images_inspected": [
+    1,
+    4,
+    13,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    43,
+    44,
+    46,
+    48,
+    49,
+    50,
+    51,
+    54,
+    55,
+    58
+  ],
+  "claims": [
+    {
+      "id": "E01",
+      "physical_pages": [
+        1,
+        4
+      ],
+      "printed_pages": [
+        "无",
+        "I"
+      ],
+      "locator": "封面、摘要",
+      "verification": "page_image",
+      "assets": [
+        "evidence/page-01.png",
+        "evidence/page-04.png"
+      ]
+    },
+    {
+      "id": "E02",
+      "physical_pages": [
+        38,
+        39,
+        48,
+        58
+      ],
+      "printed_pages": [
+        "29",
+        "30",
+        "39",
+        "49"
+      ],
+      "locator": "4.2–4.3、5.2、6.4",
+      "verification": "page_image",
+      "assets": [
+        "evidence/page-38.png",
+        "evidence/page-39.png",
+        "evidence/page-48.png",
+        "evidence/page-58.png"
+      ]
+    },
+    {
+      "id": "E03",
+      "physical_pages": [
+        39
+      ],
+      "printed_pages": [
+        "30"
+      ],
+      "locator": "表4-1",
+      "verification": "page_image",
+      "assets": [
+        "evidence/page-39.png"
+      ]
+    },
+    {
+      "id": "E04",
+      "physical_pages": [
+        36,
+        37,
+        39
+      ],
+      "printed_pages": [
+        "27",
+        "28",
+        "30"
+      ],
+      "locator": "式(4.1)–(4.4)、4.3",
+      "verification": "page_image",
+      "assets": [
+        "evidence/page-36.png",
+        "evidence/page-37.png",
+        "evidence/page-39.png"
+      ]
+    },
+    {
+      "id": "E05",
+      "physical_pages": [
+        39,
+        40,
+        41
+      ],
+      "printed_pages": [
+        "30",
+        "31",
+        "32"
+      ],
+      "locator": "表4-2",
+      "verification": "page_image",
+      "assets": [
+        "evidence/page-39.png",
+        "evidence/page-40.png",
+        "evidence/page-41.png"
+      ]
+    },
+    {
+      "id": "E06",
+      "physical_pages": [
+        43,
+        44,
+        45
+      ],
+      "printed_pages": [
+        "34",
+        "35",
+        "36"
+      ],
+      "locator": "表4-4、表4-5",
+      "verification": "page_image_and_native_text",
+      "assets": [
+        "evidence/page-43.png",
+        "evidence/page-44.png"
+      ]
+    },
+    {
+      "id": "E07",
+      "physical_pages": [
+        4,
+        46
+      ],
+      "printed_pages": [
+        "I",
+        "37"
+      ],
+      "locator": "摘要、5.1.1",
+      "verification": "page_image",
+      "assets": [
+        "evidence/page-04.png",
+        "evidence/page-46.png"
+      ]
+    },
+    {
+      "id": "E08",
+      "physical_pages": [
+        46,
+        48,
+        49
+      ],
+      "printed_pages": [
+        "37",
+        "39",
+        "40"
+      ],
+      "locator": "5.1.2、表5-1、5.2",
+      "verification": "page_image",
+      "assets": [
+        "evidence/page-46.png",
+        "evidence/page-48.png",
+        "evidence/page-49.png"
+      ]
+    },
+    {
+      "id": "E09",
+      "physical_pages": [
+        49,
+        50
+      ],
+      "printed_pages": [
+        "40",
+        "41"
+      ],
+      "locator": "5.3、表5-3",
+      "verification": "page_image",
+      "assets": [
+        "evidence/page-49.png",
+        "evidence/page-50.png"
+      ]
+    },
+    {
+      "id": "E10",
+      "physical_pages": [
+        50,
+        51
+      ],
+      "printed_pages": [
+        "41",
+        "42"
+      ],
+      "locator": "表5-4、5.5",
+      "verification": "page_image",
+      "assets": [
+        "evidence/page-50.png",
+        "evidence/page-51.png"
+      ]
+    },
+    {
+      "id": "E11",
+      "physical_pages": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "printed_pages": [
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "locator": "表5-5、5.5.1–5.5.2",
+      "verification": "page_image_and_native_text",
+      "assets": [
+        "evidence/page-51.png",
+        "evidence/page-54.png"
+      ]
+    },
+    {
+      "id": "E12",
+      "physical_pages": [
+        51,
+        54,
+        55
+      ],
+      "printed_pages": [
+        "42",
+        "45",
+        "46"
+      ],
+      "locator": "表5-5、5.6、表5-6",
+      "verification": "page_image",
+      "assets": [
+        "evidence/page-51.png",
+        "evidence/page-54.png",
+        "evidence/page-55.png"
+      ]
+    },
+    {
+      "id": "E13",
+      "physical_pages": [
+        58
+      ],
+      "printed_pages": [
+        "49"
+      ],
+      "locator": "6.4",
+      "verification": "page_image",
+      "assets": [
+        "evidence/page-58.png"
+      ]
+    },
+    {
+      "id": "E14",
+      "physical_pages": [
+        40,
+        41,
+        43,
+        44,
+        45,
+        49
+      ],
+      "printed_pages": [
+        "31",
+        "32",
+        "34",
+        "35",
+        "36",
+        "40"
+      ],
+      "locator": "表4-2、表4-4/4-5、表5-2",
+      "verification": "page_image_and_native_text",
+      "assets": [
+        "evidence/page-40.png",
+        "evidence/page-41.png",
+        "evidence/page-43.png",
+        "evidence/page-44.png",
+        "evidence/page-49.png"
+      ]
+    },
+    {
+      "id": "E15",
+      "physical_pages": [
+        13,
+        36,
+        37
+      ],
+      "printed_pages": [
+        "4",
+        "27",
+        "28"
+      ],
+      "locator": "1.3.1、式(4.1)/(4.3)",
+      "verification": "page_image",
+      "assets": [
+        "evidence/page-13.png",
+        "evidence/page-36.png",
+        "evidence/page-37.png"
+      ]
+    }
+  ],
+  "unresolved": [
+    "没有原始案例数据、DEA与fsQCA项目文件，未复算任何效率值、校准值或解。",
+    "表5-2的结果变量如何从表4-2或表4-4/4-5产生，文中无可核查映射。",
+    "QCA五条件的年份、产业结构双指标合成方法、静态表4-2各省单值的年度汇总规则未交代。",
+    "研究内容所称投入导向与式(4.1)/(4.3)的产出扩张方向相冲突，实际DEAP设置未知。",
+    "表4-5仅核其首页和论文陈述的总均值，未逐省核查。"
+  ],
+  "full_text_read": false,
+  "recalculated": false
+}

@@ -1,0 +1,22 @@
+{
+  "source_sha256": "ddeff002de83f46497c4b40ebafc76b3ddf892d066c91b872eee20ce85ee762c",
+  "source_package_audit": "source_audit.json",
+  "sections": 1,
+  "page_twips": {"width": 12240, "height": 15840, "top": 1440, "bottom": 1440, "left": 1800, "right": 1800, "header": 720, "footer": 720},
+  "header_footer": {"actual_parts": 0, "content": "", "different_first_page": false, "page_numbers": false},
+  "locations": {"part": "word/document.xml", "section4_body_children": [31, 32], "section5_body_children": [34, 35], "section4_all_paragraphs": [145, 194], "section5_all_paragraphs": [195, 228], "cell_wrapper": "w:tr/w:sdt/w:sdtContent/w:tc"},
+  "table": {"rows": 1, "columns": 1, "grid_and_cell_width_twips": 8856, "row_min_height_twips": 3710, "border": {"style": "single", "size_eighth_points": 4, "color": "auto"}, "fill": null, "cell_margin": "not_explicit"},
+  "styles": {
+    "document_defaults": {"east_asian_font": "宋体", "latin_font": "Times New Roman"},
+    "normal": {"style_id": "a", "size_half_points": 21, "alignment": "both"},
+    "section_heading": {"style_id": "1", "based_on": "a", "east_asian_font": "黑体", "size_half_points": 30, "keep_next": true, "keep_lines": true, "color": "inherited_black", "white_suffix_text": "（文档标题）"},
+    "subheading": {"paragraph_style_id": "a", "size_half_points": 24, "bold": true, "line_spacing_240ths": 360},
+    "body": {"paragraph_style_id": "a", "size_half_points": 24, "line_spacing_240ths": 360, "first_line_chars_hundredths": 200, "first_line_twips_typical": 480, "color": "inherited_black"},
+    "equation_ae": {"style_id": "ae", "east_asian_font": "Times New Roman", "size_half_points_default": 21},
+    "equation_af": {"style_id": "af", "based_on": "ae"},
+    "figure_caption": {"size_half_points": 24, "line_spacing_240ths": 276, "alignment": "center"}
+  },
+  "equations": {"section4_ole_count": 77, "section5_ole_count": 0, "prog_id": "Equation.3", "creator_proven": false},
+  "figure": {"paragraph_index": 211, "caption_index": 213, "part": "word/media/image76.png", "relationship_id": "rId160", "width_emu": 5486400, "height_emu": 3403600},
+  "render_evidence": {"bundled_libreoffice_with_task_font_mapping": "reference_render_fontmapped", "note": "Substituted fonts and pagination are not authoritative for Word"}
+}

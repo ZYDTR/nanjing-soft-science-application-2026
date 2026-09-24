@@ -1,0 +1,270 @@
+{
+  "width": 1240,
+  "height": 1680,
+  "jpg_bytes": 399777,
+  "jpg_quality": 90,
+  "text_width_checks": [
+    {
+      "text": "1  界定资源、统筹权限与理论问题",
+      "width": 451.5,
+      "available": 776,
+      "fits": true
+    },
+    {
+      "text": "文献与政策",
+      "width": 130.0,
+      "available": 246,
+      "fits": true
+    },
+    {
+      "text": "权限与口径核对",
+      "width": 182.0,
+      "available": 246,
+      "fits": true
+    },
+    {
+      "text": "资源评价总体  →  可控同质资金池",
+      "width": 436.0,
+      "available": 768,
+      "fits": true
+    },
+    {
+      "text": "地区汇总 · 机构单元 · 服务事件",
+      "width": 406.0,
+      "available": 768,
+      "fits": true
+    },
+    {
+      "text": "2  诊断资源分布、可达性与实际使用",
+      "width": 481.5,
+      "available": 776,
+      "fits": true
+    },
+    {
+      "text": "分层统计",
+      "width": 104.0,
+      "available": 246,
+      "fits": true
+    },
+    {
+      "text": "社会空间网络",
+      "width": 156.0,
+      "available": 246,
+      "fits": true
+    },
+    {
+      "text": "访谈与业务记录",
+      "width": 182.0,
+      "available": 246,
+      "fits": true
+    },
+    {
+      "text": "地区资源结构     机构—服务关系     使用障碍",
+      "width": 546.0,
+      "available": 768,
+      "fits": true
+    },
+    {
+      "text": "形成资源清单、真实网络和问题证据",
+      "width": 432.0,
+      "available": 768,
+      "fits": true
+    },
+    {
+      "text": "3  构建三种配置机制及初始方案",
+      "width": 421.5,
+      "available": 776,
+      "fits": true
+    },
+    {
+      "text": "需求与容量约束",
+      "width": 182.0,
+      "available": 246,
+      "fits": true
+    },
+    {
+      "text": "DEA / ZSG-DEA¹",
+      "width": 194.5,
+      "available": 246,
+      "fits": true
+    },
+    {
+      "text": "规则与情景比较",
+      "width": 182.0,
+      "available": 246,
+      "fits": true
+    },
+    {
+      "text": "基础配置：在相同总额与约束下比较",
+      "width": 464.0,
+      "available": 734,
+      "fits": true
+    },
+    {
+      "text": "公平方案",
+      "width": 108.0,
+      "available": 218,
+      "fits": true
+    },
+    {
+      "text": "效率方案",
+      "width": 108.0,
+      "available": 218,
+      "fits": true
+    },
+    {
+      "text": "综合方案",
+      "width": 108.0,
+      "available": 218,
+      "fits": true
+    },
+    {
+      "text": "竞争配置",
+      "width": 116.0,
+      "available": 318,
+      "fits": true
+    },
+    {
+      "text": "遴选、匹配与依规调整",
+      "width": 250.0,
+      "available": 318,
+      "fits": true
+    },
+    {
+      "text": "奖励配置",
+      "width": 116.0,
+      "available": 346,
+      "fits": true
+    },
+    {
+      "text": "绩效核验与后续激励",
+      "width": 225.0,
+      "available": 346,
+      "fits": true
+    },
+    {
+      "text": "4  比较公平、效率与实施可行性",
+      "width": 421.5,
+      "available": 776,
+      "fits": true
+    },
+    {
+      "text": "多维方案评价",
+      "width": 156.0,
+      "available": 246,
+      "fits": true
+    },
+    {
+      "text": "蒙特卡洛模拟",
+      "width": 156.0,
+      "available": 246,
+      "fits": true
+    },
+    {
+      "text": "约束与敏感性核验",
+      "width": 208.0,
+      "available": 246,
+      "fits": true
+    },
+    {
+      "text": "需求覆盖 · 实际使用 · 受益分布 · 调整成本",
+      "width": 574.0,
+      "available": 768,
+      "fits": true
+    },
+    {
+      "text": "形成可行方案范围与参数敏感性结果",
+      "width": 432.0,
+      "available": 768,
+      "fits": true
+    },
+    {
+      "text": "5  对照同类案例，检验机制与适用条件",
+      "width": 511.5,
+      "available": 776,
+      "fits": true
+    },
+    {
+      "text": "政策横向比较",
+      "width": 156.0,
+      "available": 246,
+      "fits": true
+    },
+    {
+      "text": "项目过程追踪",
+      "width": 156.0,
+      "available": 246,
+      "fits": true
+    },
+    {
+      "text": "条件满足时QCA²",
+      "width": 201.0,
+      "available": 246,
+      "fits": true
+    },
+    {
+      "text": "跨城市制度比较  ＋  同类项目及失败案例",
+      "width": 504.0,
+      "available": 768,
+      "fits": true
+    },
+    {
+      "text": "识别制度组合、实施条件与迁移成本",
+      "width": 432.0,
+      "available": 768,
+      "fits": true
+    },
+    {
+      "text": "6  形成分阶段实现路径与政策建议",
+      "width": 451.5,
+      "available": 776,
+      "fits": true
+    },
+    {
+      "text": "证据交叉核验",
+      "width": 156.0,
+      "available": 246,
+      "fits": true
+    },
+    {
+      "text": "政策可行性讨论",
+      "width": 182.0,
+      "available": 246,
+      "fits": true
+    },
+    {
+      "text": "近期：口径与流程   中期：协同与试点",
+      "width": 469.0,
+      "available": 768,
+      "fits": true
+    },
+    {
+      "text": "后续：绩效反馈与规则完善",
+      "width": 324.0,
+      "available": 768,
+      "fits": true
+    },
+    {
+      "text": "¹ 同质机构、可调投入与可比产出成立后实施。",
+      "width": 515.0,
+      "available": 1140,
+      "fits": true
+    },
+    {
+      "text": "² 案例同类、结果期一致且具备可校准证据后实施。",
+      "width": 565.0,
+      "available": 1140,
+      "fits": true
+    },
+    {
+      "text": "箭头表示研究推演；三种机制在现实制度中可以交叠。",
+      "width": 600.0,
+      "available": 1140,
+      "fits": true
+    }
+  ],
+  "visual_review": "main_agent_viewed_png_and_final_jpg_no_overlap_or_clipping",
+  "intended_word_width_inches": 5.76,
+  "smallest_main_text_points_at_width": 8.36,
+  "final_word_layout_review": "pending"
+}

@@ -1,0 +1,14 @@
+command: ['@repo/context_after_html/project/workstreams/literature/.venv/bin/python', '@repo/context_after_html/project/workstreams/literature/tools/caj2pdf-py/caj2pdf', 'convert', '@repo/文献参考（老师找的）/科技创新资源配置效率测度及提升组态路径研究_冯兆奎.caj', '-o', '@repo/context_after_html/project/workstreams/literature/converted/科技创新资源配置效率测度及提升组态路径研究_冯兆奎.pdf']
+exit: 0
+show:
+File: @repo/文献参考（老师找的）/科技创新资源配置效率测度及提升组态路径研究_冯兆奎.caj
+Type: CAJ
+Page count: 64
+Outlines count: 50
+
+
+stdout:
+
+stderr:
+
+AUDIT: pdf_pages=64 chars_total=73561 pages_gt100=60 first_rect=Rect(0.0, 0.0, 595.6799926757812, 842.4000244140625)

@@ -1,0 +1,14 @@
+command: ['@repo/context_after_html/project/workstreams/literature/.venv/bin/python', '@repo/context_after_html/project/workstreams/literature/tools/caj2pdf-py/caj2pdf', 'convert', '@repo/文献参考（老师找的）/资源配置视角下协同创新网络与企业成长的关系研究_吴钊阳(1).caj', '-o', '@repo/context_after_html/project/workstreams/literature/converted/资源配置视角下协同创新网络与企业成长的关系研究_吴钊阳(1).pdf']
+exit: 0
+show:
+File: @repo/文献参考（老师找的）/资源配置视角下协同创新网络与企业成长的关系研究_吴钊阳(1).caj
+Type: CAJ
+Page count: 167
+Outlines count: 113
+
+
+stdout:
+
+stderr:
+
+AUDIT: pdf_pages=167 chars_total=188260 pages_gt100=166 first_rect=Rect(0.0, 0.0, 595.3200073242188, 841.9199829101562)

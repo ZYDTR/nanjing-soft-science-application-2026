@@ -1,0 +1,14 @@
+command: ['@repo/context_after_html/project/workstreams/literature/.venv/bin/python', '@repo/context_after_html/project/workstreams/literature/tools/caj2pdf-py/caj2pdf', 'convert', '@repo/文献参考（老师找的）/江苏省区域创新资源配置研究_陈才华.caj', '-o', '@repo/context_after_html/project/workstreams/literature/converted/江苏省区域创新资源配置研究_陈才华.pdf']
+exit: 0
+show:
+File: @repo/文献参考（老师找的）/江苏省区域创新资源配置研究_陈才华.caj
+Type: CAJ
+Page count: 69
+Outlines count: 62
+
+
+stdout:
+
+stderr:
+
+AUDIT: pdf_pages=69 chars_total=74561 pages_gt100=69 first_rect=Rect(0.0, 0.0, 595.0, 842.0)

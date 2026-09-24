@@ -1,0 +1,42 @@
+{
+  "title": "资源配置视角下协同创新网络与企业成长的关系研究",
+  "author": "吴钊阳",
+  "year": 2020,
+  "source": "@repo/文献参考（老师找的）/资源配置视角下协同创新网络与企业成长的关系研究_吴钊阳(1).caj",
+  "readable_file": "@repo/context_after_html/project/workstreams/literature/converted/资源配置视角下协同创新网络与企业成长的关系研究_吴钊阳(1).pdf",
+  "research_question": "吴文的协同创新网络究竟是关系数据建图还是问卷感知构念？其节点、边、频次/时点、样本、量表、资源配置中介、结果和识别边界是什么，南京真实事件网络可借鉴什么？",
+  "reading_level": "targeted",
+  "total_pages": 167,
+  "full_text_read": false,
+  "read_ranges": [
+    {"physical_pages": "2;5-6", "method": "native_text", "purpose": "书目信息、摘要和结论总览"},
+    {"physical_pages": "22-24", "method": "native_text", "purpose": "研究方法与章节结构"},
+    {"physical_pages": "56-57", "method": "native_text", "purpose": "探索性案例选择与数据"},
+    {"physical_pages": "95-99", "method": "native_text+page_image(98)", "purpose": "假设、理论图和变量方向"},
+    {"physical_pages": "101-107", "method": "native_text+page_image(103-106)", "purpose": "问卷设计、变量量表、预调研"},
+    {"physical_pages": "113-125", "method": "native_text+page_image(113-114)", "purpose": "正式样本、量表检验、统计方法"},
+    {"physical_pages": "126-140", "method": "native_text+page_image(131,133-135)", "purpose": "SEM、路径、中介、调节及阶段结果"},
+    {"physical_pages": "142-148", "method": "native_text+page_image(147-148)", "purpose": "作者结论与自承限制"},
+    {"physical_pages": "163-166", "method": "native_text+page_image(164-166)", "purpose": "原始问卷题项与当前合作计数口径"}
+  ],
+  "claims": [
+    {"id": "E01", "physical_page": 101, "printed_page": "88", "locator": "§5.1", "verification": "native_text"},
+    {"id": "E02", "physical_page": 103, "printed_page": "90", "locator": "表5-1至5-3；附录题11-19", "verification": "page_image", "asset": "evidence/page-103.png"},
+    {"id": "E03", "physical_page": 164, "printed_page": "151", "locator": "附录题9、10(a)-(c)；表5-20", "verification": "page_image", "asset": "evidence/page-164.png"},
+    {"id": "E04", "physical_page": 57, "printed_page": "44", "locator": "§3.2.3", "verification": "native_text"},
+    {"id": "E05", "physical_page": 113, "printed_page": "100", "locator": "§5.5-5.6.1、图5-1", "verification": "page_image", "asset": "evidence/page-113.png"},
+    {"id": "E06", "physical_page": 114, "printed_page": "101", "locator": "表5-20", "verification": "page_image", "asset": "evidence/page-114.png"},
+    {"id": "E07", "physical_page": 105, "printed_page": "92", "locator": "表5-4；附录题21-26", "verification": "page_image", "asset": "evidence/page-105.png"},
+    {"id": "E08", "physical_page": 106, "printed_page": "93", "locator": "表5-5、5-6，§5.3.5；附录题20、27-30", "verification": "page_image", "asset": "evidence/page-106.png"},
+    {"id": "E09", "physical_page": 122, "printed_page": "109", "locator": "表6-1至6-3、6-10至6-12", "verification": "native_text"},
+    {"id": "E10", "physical_page": 98, "printed_page": "85", "locator": "图4-1", "verification": "page_image", "asset": "evidence/page-098.png"},
+    {"id": "E11", "physical_page": 131, "printed_page": "118", "locator": "表6-18、6-22、6-24、6-25", "verification": "page_image+native_text", "asset": "evidence/page-131.png"},
+    {"id": "E12", "physical_page": 133, "printed_page": "120", "locator": "表6-27至6-31", "verification": "page_image+native_text", "asset": "evidence/page-133.png"},
+    {"id": "E13", "physical_page": 147, "printed_page": "134", "locator": "§7.3(1)、(3)", "verification": "page_image", "asset": "evidence/page-147.png"}
+  ],
+  "unresolved": [
+    "未获微观答卷、SEM模型文件或计算代码；未复算或复现。",
+    "定向阅读页未见企业级去重规则、问卷发出总数/响应率、确切调查日历时点、间接效应置信区间。",
+    "没有逐个合作主体身份或事件时间戳，无法由此构建动态关系网络。"
+  ]
+}

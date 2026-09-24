@@ -1,0 +1,7879 @@
+{
+  "source": "@repo/2023RR软科学_A.docx",
+  "sha256": "ddeff002de83f46497c4b40ebafc76b3ddf892d066c91b872eee20ce85ee762c",
+  "paragraphs_total": 257,
+  "styles": {
+    "a": {
+      "name": "Normal",
+      "basedOn": null,
+      "pPr": {
+        "widowControl": {
+          "val": "0"
+        },
+        "jc": {
+          "val": "both"
+        }
+      },
+      "rPr": {
+        "kern": {
+          "val": "2"
+        },
+        "sz": {
+          "val": "21"
+        },
+        "szCs": {
+          "val": "24"
+        }
+      }
+    },
+    "1": {
+      "name": "heading 1",
+      "basedOn": "a",
+      "pPr": {
+        "keepNext": true,
+        "keepLines": true,
+        "outlineLvl": {
+          "val": "0"
+        }
+      },
+      "rPr": {
+        "rFonts": {
+          "eastAsia": "黑体"
+        },
+        "bCs": true,
+        "kern": {
+          "val": "44"
+        },
+        "sz": {
+          "val": "30"
+        },
+        "szCs": {
+          "val": "44"
+        }
+      }
+    },
+    "ae": {
+      "name": "公式",
+      "basedOn": null,
+      "pPr": null,
+      "rPr": {
+        "rFonts": {
+          "eastAsia": "Times New Roman"
+        },
+        "kern": {
+          "val": "2"
+        },
+        "sz": {
+          "val": "21"
+        },
+        "szCs": {
+          "val": "24"
+        }
+      }
+    },
+    "af": {
+      "name": "公式据中国",
+      "basedOn": "ae",
+      "pPr": {
+        "tabs": true
+      },
+      "rPr": null
+    }
+  },
+  "docDefaults": "<w:docDefaults xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" xmlns:w15=\"http://schemas.microsoft.com/office/word/2012/wordml\" xmlns:w16cex=\"http://schemas.microsoft.com/office/word/2018/wordml/cex\" xmlns:w16cid=\"http://schemas.microsoft.com/office/word/2016/wordml/cid\" xmlns:w16=\"http://schemas.microsoft.com/office/word/2018/wordml\" xmlns:w16du=\"http://schemas.microsoft.com/office/word/2023/wordml/word16du\" xmlns:w16sdtdh=\"http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash\" xmlns:w16sdtfl=\"http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock\" xmlns:w16se=\"http://schemas.microsoft.com/office/word/2015/wordml/symex\"><w:rPrDefault><w:rPr><w:rFonts w:ascii=\"Times New Roman\" w:eastAsia=\"宋体\" w:hAnsi=\"Times New Roman\" w:cs=\"Times New Roman\"/><w:lang w:val=\"en-US\" w:eastAsia=\"zh-CN\" w:bidi=\"ar-SA\"/></w:rPr></w:rPrDefault><w:pPrDefault/></w:docDefaults>",
+  "tables": [
+    {
+      "index": 4,
+      "style": "Normal Table",
+      "tblPr": {
+        "tblW": {
+          "w": "0",
+          "type": "auto"
+        },
+        "tblBorders": true,
+        "tblLook": {
+          "val": "04A0",
+          "firstRow": "1",
+          "lastRow": "0",
+          "firstColumn": "1",
+          "lastColumn": "0",
+          "noHBand": "0",
+          "noVBand": "1"
+        }
+      },
+      "tblGrid": [
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}w": "8856"
+        }
+      ],
+      "cell": {
+        "tcW": {
+          "w": "8856",
+          "type": "dxa"
+        }
+      },
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "index": 5,
+      "style": "Normal Table",
+      "tblPr": {
+        "tblW": {
+          "w": "0",
+          "type": "auto"
+        },
+        "tblBorders": true,
+        "tblLook": {
+          "val": "04A0",
+          "firstRow": "1",
+          "lastRow": "0",
+          "firstColumn": "1",
+          "lastColumn": "0",
+          "noHBand": "0",
+          "noVBand": "1"
+        }
+      },
+      "tblGrid": [
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}w": "8856"
+        }
+      ],
+      "cell": {
+        "tcW": {
+          "w": "8856",
+          "type": "dxa"
+        }
+      },
+      "rows": 1,
+      "cols": 1
+    }
+  ],
+  "items": [
+    {
+      "index": 145,
+      "text": "四、本项目研究的主要思想、观点和理论方法（文档标题）",
+      "text_length": 26,
+      "style_id": "1",
+      "pPr": {
+        "pStyle": {
+          "val": "1"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "四、",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "lang": {
+              "val": "zh-CN"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "本项目研究的主要思想、观点和理论方法",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "lang": {
+              "val": "zh-CN"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "（文档标题）",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "color": {
+              "val": "FFFFFF"
+            },
+            "lang": {
+              "val": "zh-CN"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 146,
+      "text": "    ",
+      "text_length": 4,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "    ",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "仿宋_GB2312",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            },
+            "lang": {
+              "val": "zh-CN"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 147,
+      "text": "4.1 主要思想和观点",
+      "text_length": 11,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "4.",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "仿宋_GB2312",
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            },
+            "lang": {
+              "val": "zh-CN"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "1 ",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "仿宋_GB2312"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            },
+            "lang": {
+              "val": "zh-CN"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "主要思想和观点",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "仿宋_GB2312",
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            },
+            "lang": {
+              "val": "zh-CN"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 148,
+      "text": "4.1.1 创新联系网络的结构特征和城市经济韧性",
+      "text_length": 24,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "outlineLvl": {
+          "val": "2"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "4",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": ".",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "1",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": ".",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "1",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": " 创新联系网络的结构特征和城市经济韧性",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 149,
+      "text": "具有中心性特征的创新主体对经济韧性的作用体现在以下方面：首先，位于网络中心地位意味节点在合作网络中沟通交流的信息量更大，获取有效信息资源进行创新式发展的机会更多、难度更低，较易实现技术与信息的外溢，产生正的外部性，提升城市节点的适应性韧性。其次，度数中心度较高的城市节点可以通过资源要素、信息机会、知识技术的快速流动与高",
+      "text_length": 283,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "具有中心性特征的创新主体对经济韧性的作用体现在以下方面：首先，位于网络中心地位意味节点在合作网络中沟通交流的信息量更大，获取有效信息资源进行创新式发展的机会更多、难度更低，较易实现技术与信息的外溢，产生正的外部性，提升城市节点的适应性韧性。其次，度数中心度较高的城市节点可以通过资源要素、信息机会、知识技术的快速流动与高度聚集，在短时间内利用规模经济保持经济稳定发展，应对冲击。此外，接近中心度高的创新主体具有较强的自主性，距离其他节点的距离都较短进而不易受到其他城市的控制，这一方面缓解机会主义的负面影响，另一方面意味着某一城市节点不易被其他城市的内外部冲击波及。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 150,
+      "text": "另一方面，从更长的期限来看，中心度特征也可能带来一些威胁。由于创新主体已经获得了大量的信息资源，因此进一步摄取的信息资源将出现大量同质现象，陷入认知锁定，并使得信息资源超载、信息质量下降且难以整合吸收，最终导致区域无法在应对冲击时创新发展新的路径。不仅如此，创新主体需要花费更多的时间和精力去管理或维持创新合作网络，导致",
+      "text_length": 183,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "另一方面，从更长的期限来看，中心度特征也可能带来一些威胁。由于创新主体已经获得了大量的信息资源，因此进一步摄取的信息资源将出现大量同质现象，陷入认知锁定，并使得信息资源超载、信息质量下降且难以整合吸收，最终导致区域无法在应对冲击时创新发展新的路径。不仅如此，创新主体需要花费更多的时间和精力去管理或维持创新合作网络，导致经济发展效率的降低，不利于区域经济韧性的提高。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 151,
+      "text": "观点1. 城市节点的中心性特征对城市经济韧性的作用随着路径依赖阶段的不同呈现差异化特征。",
+      "text_length": 44,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "482"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "观点",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "1. ",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "城市节点的中心性特征对城市经济韧性的作用随着路径依赖阶段的不同呈现差异化特征。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 152,
+      "text": "结构洞用以测量谁占据了网络中的非冗余联系，哪些关键创新者控制了网络信息和资源。城市的结构洞特征对城市经济韧性的作用如下：首先，城市节点对结构洞的占据能力越高，越容易从其他创新节点处获得非同质、非冗余的信息，有利于不同产业部门间的交叉创新及知识融合而不易陷入认知锁定状态，进而便于城市在扰动后进行适应性调整，提升经济韧性。",
+      "text_length": 318,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "结构洞用以测量谁占据了网络中的非冗余联系，哪些关键创新者控制了网络信息和资源。城市的结构洞特征对城市经济韧性的作用如下：首先，城市节点对结构洞的占据能力越高，越容易从其他创新节点处获得非同质、非冗余的信息，有利于不同产业部门间的交叉创新及知识融合而不易陷入认知锁定状态，进而便于城市在扰动后进行适应性调整，提升经济韧性。第二，具有结构洞特征的城市行业间的劳动力共享为新企业的出现提供更高的人才匹配度，受到冲击释放的劳动力更容易进行跨行业流动，从而有利于缓解某一行业受到冲击后引发的就业需求波动。第三，",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "结构洞衡量了创新主体对网络中的非冗余联系以及关键网络信息和资源的控制，减少了资源信息的筛选成本以及创新合作网络的维护成本，提高经济效率。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 153,
+      "text": "观点2. 城市节点的对结构洞的运用能力与城市经济韧性正相关。",
+      "text_length": 30,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "482"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "观点",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2. ",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "城市节点的对结构洞的运用能力与城市经济韧性正相关。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 154,
+      "text": "4.1.2产业结构和城市经济韧性",
+      "text_length": 16,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "outlineLvl": {
+          "val": "2"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "4",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": ".",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "1",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": ".",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "产业结构和城市经济韧性",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 155,
+      "text": "目前，被学界认可的经济韧性更强调“适应性”概念，不仅仅意味着在冲击后恢复原有的均衡，还包括通过适应冲击带来的变化，探寻新的均衡发展道路的能力。创新对于经济韧性的意义在于能够于危机后期的恢复调整阶段促进产业结构适应性调整（Boschma，2015）。创新能力强的地区会以更快的速度进行新的生产活动，形成新的比较优势，进而开",
+      "text_length": 277,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "目前，被学界认可的经济韧性更强调“适应性”概念，不仅仅意味着在冲击后恢复原有的均衡，还包括通过适应冲击带来的变化，探寻新的均衡发展道路的能力。创新对于经济韧性的意义在于能够于危机后期的恢复调整阶段促进产业结构适应性调整（",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "Boschma",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "，",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2015",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）。创新能力强的地区会以更快的速度进行新的生产活动，形成新的比较优势，进而开创新的发展路径（",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "Martin et al., 2015",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）。因此，创新作为关键的适应因素之一，能够促使城市在内外部环境发生变化时利用现有资源寻求新的机会，促进产业结构调整，进而成为冲击后经济发展的重要动机，并引导城市进入新一轮发展路径。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 156,
+      "text": "观点3a. 产业结构的适应性调整是城市节点在创新网络中的结构特征影响经济韧性提升中间机制。",
+      "text_length": 45,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "482"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "观点",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "3a.",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": " ",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "产业结构的适应性调整是城市节点在创新网络中的结构特征影响经济韧性提升中间机制。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 157,
+      "text": "产业结构相关多样性是对相关性与多样性的兼顾，确保城市在高效集聚发展的同时，维持自身面对冲击的适应性调整与恢复能力，实现产业间信息与技术交流与融合并创造新的发展路径。产业结构的相关多样性能够调节产业结构适应性调整过程的原因如下：基于宏观的产业结构角度，相关多样性产业具有结构调整优势。不同行业在城市中的聚集，有助于完善当地",
+      "text_length": 317,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "产业结构相关多样性是对相关性与多样性的兼顾，确保城市在高效集聚发展的同时，维持自身面对冲击的适应性调整与恢复能力，实现产业间信息与技术交流与融合并创造新的发展路径。产业结构的相关多样性能够调节产业结构适应性调整过程的原因如下：基于宏观的产业结构角度，相关多样性产业具有结构调整优势。不同行业在城市中的聚集，有助于完善当地的供应链配套与基础设施建设，使新部门的进入更加便捷，促使其专注于核心业务的研发与拓展，进而带动整个区域产业结构的转型升级。基于中观的产业技术角度，相关多样性性产业间更易产生知识溢出。由于相关多样性考虑了技术距离，其优势在于城市存在多个产业领域而又彼此相关，更易进行产业部门间的重新组合和交叉创新，创造新的发展路径。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 158,
+      "text": "观点3b. 城市产业结构的相关多样性将会正向调节了产业结构适应性调整的过程，进而影响城市经济韧性的提升。",
+      "text_length": 52,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "482"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "观点",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "3b. ",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "城市产业结构的相关多样性将会正向调节了产业结构适应性调整的过程，进而影响城市经济韧性的提升。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 159,
+      "text": "综上，本文认为，路径依赖理论应当与社会网络理论、产业结构理论相联系。城市节点在创新网络中的地位一定程度上影响城市路径依赖的阶段，并通过产业结构的适应性调整作用于城市经济韧性。而一个经济体的产业结构能否顺利进行适应性调整，创造新的发展路径，将受到产业结构的相关多样性的调节。理论框架如下图所示。",
+      "text_length": 146,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "综上，",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "本文认为，路径依赖理论应当与社会网络理论、产业结构理论相联系。城市节点在创新网络中的地位一定程度上影响城市路径依赖的阶段，并通过产业结",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "构的适应性调整作用于城市经济韧性。而一个经济体的产业结构能否顺利进行适应性调整，创造新的发展路径，将受到产业结构的相关多样性的调节。理论框架如下图所示。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 160,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 161,
+      "text": "4.2 思想",
+      "text_length": 6,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "4",
+          "rPr": {
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": ".",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2",
+          "rPr": {
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": " ",
+          "rPr": {
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "思想",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 162,
+      "text": "经济韧性在系统抵御内外部冲击、实现可持续发展的过程中发挥重要作用。随着创新驱动战略与经济高质量发展要求的提出，创新在经济韧性提升中扮演的角色获得越来越多的关注。在我国当前积极建立以城市群带动区域发展的新模式下，不同城市之间的创新资源并非独立存在。",
+      "text_length": 123,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "经济韧性在系统抵御内外部冲击、实现可持续发展的过程中发挥重要作用。随着创新驱动战略与经济高质量发展要求的提出，创新在经济韧性提升中扮演的角色获得越来越多的关注。在我国当前积极建立以城市群带动区域发展的新模式下，不同城市之间的创新资源并非独立存在。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 163,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 164,
+      "text": "（1）“中国式高质量发展”语境下的城市“科技创新”，在研究逻辑上要实现由单个城市静态“建设效率”到动态城市群网络的“治理效率”的转换",
+      "text_length": 66,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "482"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "1",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）“中国式高质量发展”语境下的城市“科技创新”，在研究逻辑上要实现由单个城市静态“建设效率”到动态城市群网络的“治理效率”的转换",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 165,
+      "text": "（2）在研究主题的影响因素和作用机制方面，需要以产业结构的多样性和适应性为切入视角，兼容多学科理论和研究方法来刻画科技创新网络与城市经济结构韧性的时空间耦合演化过程。",
+      "text_length": 83,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "482"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）在研究主题的影响因素和作用机制方面，需要以产业结构的多样性和适应性为切入视角，兼容多学科理论和研究方法来刻画科技创新网络与城市经济结构韧性的时空间耦合演化过程。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 166,
+      "text": "（3）科技创新和韧性城市建设和治理是一项需要自上而下的制度设计和自下而上的实践探索相结合的系统工程，产业规划建设、城市经济以及生态资源价值实现方面，则需要“弹性的交易机制”和“刚性规划规制”协同并举，最终实现跨区域的合作利益共享和成本共担，需要提出支撑“有为政府+有效市场+有机组织”的长效治理机制。",
+      "text_length": 150,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "482"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "3",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）科技创新和韧性城市建设和治理是一项需要自上而下的制度设计和自下而上的实践探索相结合的系统工程，产业规划建设、城市经济以及生态资源价值实现方面，则需要“弹性的交易机制”和“刚性规划规制”协同并举，最终实现跨区域的合作利益共享和成本共担，",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "需要",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "提出支撑“有为政府",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "+",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "有效市场",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "+",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "有机组织”的长效治理机制。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 167,
+      "text": "4.3 理论方法",
+      "text_length": 8,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "482"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "4.",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "3 ",
+          "rPr": {
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "理论方法",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 168,
+      "text": "为了实证探究城市节点在创新联系网络中的结构特征对城市经济韧性的影响，本文如下建立基准回归模型：",
+      "text_length": 47,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "为了实证探究城市节点在创新联系网络中的结构特征对城市经济韧性的影响，本文如下建立基准回归模型：",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 169,
+      "text": "（3.1）",
+      "text_length": 5,
+      "style_id": "ae",
+      "pPr": {
+        "pStyle": {
+          "val": "ae"
+        },
+        "tabs": true,
+        "ind": {
+          "firstLine": "420"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "3",
+          "rPr": {
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": ".1",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 1
+    },
+    {
+      "index": 170,
+      "text": "进一步，本文将探究效应背后的作用机制，设计了有调节的中介效应检验模型，如式1和式2所示：",
+      "text_length": 44,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "进一步，本文将探究效应背后的作用机制，设计了有调节的中介效应检验模型，如式",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "1",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "和式",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "所示：",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 171,
+      "text": "（3.2）",
+      "text_length": 5,
+      "style_id": "ae",
+      "pPr": {
+        "pStyle": {
+          "val": "ae"
+        },
+        "tabs": true,
+        "ind": {
+          "firstLine": "420"
+        }
+      },
+      "runs": [
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-30"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "3.2",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 1
+    },
+    {
+      "index": 172,
+      "text": "  （3.3）",
+      "text_length": 7,
+      "style_id": "ae",
+      "pPr": {
+        "pStyle": {
+          "val": "ae"
+        },
+        "tabs": true
+      },
+      "runs": [
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-30"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "  ",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "3.3",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 1
+    },
+    {
+      "index": 173,
+      "text": "其中，表示城市节点在时期的中心性特征，用度中心度和接近中心度表示；表示城市节点在时期的枢纽性特征，体现对结构洞的运用能力，本文采用与限制度的差值来衡量（刘军，2004）；产业结构调整指数为本文的中介变量；产业结构相关多样性指数为本文的调节变量；为城市节点不随时间变化的个体固定效应，表示时期不随个体改变的时间固定效应，表",
+      "text_length": 165,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "其中，",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-12"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "表示城市节点",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "在",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "时期的中心性特征，用度中心度和接近中心度表示；",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-12"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "表示城市节点",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "在",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "时期的枢纽性特征，体现对结构洞的运用能力，本文采用与限制度的差值来衡量（刘军，",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2004",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）；产业结构调整指数",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-12"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "为本文的中介变量；产业结构相关多样性指数",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-12"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "为本文的调节变量；",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-12"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "为城市节点",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "不随时间变化的个体固定效应，",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-12"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "表示",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "时期不随个体改变的时间固定效应，",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "表示误差项。",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 13
+    },
+    {
+      "index": 174,
+      "text": "指标计算方面，参照Martin等人（2016）的做法，将经济韧性分为抵抗力和恢复力两个指标，通过比较城市预期就业人数变化和实际就业人数变化来计算城市经济韧性。该方法一方面体现了经济韧性的动态变化，反应不同时期经济韧性的异质性特征；另一方面避免了敏感度指数与经济韧性负相关的情况，更加直观地体现出城市经济韧性的大小。",
+      "text_length": 157,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "指标计算方面，参照",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "Martin",
+          "rPr": {
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "等人（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2016",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）的做法，将经济韧性分为抵抗力和恢复力两个指标，通过比较城市预期就业人数变化和实际就业人数变化来计算城市经济韧性。该方法一方面体现了经济韧性的动态变化，反应不同时期经济韧性的异质性特征；另一方面避免了敏感度指数与经济韧性负相关的情况，更加直观地体现出城市经济韧性的大小。",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 175,
+      "text": "城市的抵抗力的计算公式为：",
+      "text_length": 13,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "城市",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-4"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "的抵抗力",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-10"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "的计算公式为：",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 2
+    },
+    {
+      "index": 176,
+      "text": "（3.4）",
+      "text_length": 5,
+      "style_id": "ae",
+      "pPr": {
+        "pStyle": {
+          "val": "ae"
+        },
+        "tabs": true,
+        "ind": {
+          "firstLine": "420"
+        }
+      },
+      "runs": [
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "3.4",
+          "rPr": {
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 1
+    },
+    {
+      "index": 177,
+      "text": "城市的恢复力的计算公式为：",
+      "text_length": 13,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "城市",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-4"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "的恢复力",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-10"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "的计算公式为：",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 2
+    },
+    {
+      "index": 178,
+      "text": "（3.5）",
+      "text_length": 5,
+      "style_id": "af",
+      "pPr": {
+        "pStyle": {
+          "val": "af"
+        }
+      },
+      "runs": [
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "3.5",
+          "rPr": {
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 1
+    },
+    {
+      "index": 179,
+      "text": "、分别表示城市在抵抗期和恢复期的就业人数变化数量，、分别表示表示城市在抵抗期和恢复期的预期就业人数变化数量。其中，城市预期就业人数变化用如下动态公式计算得出：",
+      "text_length": 79,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-10"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "、",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-10"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "分别",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "表示城市",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-4"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "在抵抗期和恢复期的就业人数变化数量",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "，",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-10"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "、",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-10"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "分别表示表示城市",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-4"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "在抵抗期和恢复期的预期就业人数变化数量。其中，城市预期就业人数变化用如下动态公式计算得出：",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 6
+    },
+    {
+      "index": 180,
+      "text": "（3.6）",
+      "text_length": 5,
+      "style_id": "af",
+      "pPr": {
+        "pStyle": {
+          "val": "af"
+        }
+      },
+      "runs": [
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "b": true,
+            "bCs": true,
+            "position": {
+              "val": "-16"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "3.6",
+          "rPr": {
+            "rFonts": {
+              "eastAsia": "宋体"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 1
+    },
+    {
+      "index": 181,
+      "text": "表示全国在时期就业的收缩或扩张率；表示时期城市中行业的就业人数。抵抗力或恢复力指标为相对值，大于0则表示区域在该时期面对冲击展现出的经济韧性大于全国层面平均水平。",
+      "text_length": 81,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-12"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "表示全国在",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "时期就业的收缩或扩张率；",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-12"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "表示",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "时期城市",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-4"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "中",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "行业的就业人数。抵抗力或恢复力指标为相对值，大于",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "0",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "则表示区域在该时期面对冲击展现出的经济韧性大于全国层面平均水平。",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 6
+    },
+    {
+      "index": 182,
+      "text": "修正引力模型。参考刘华军等（2015）、孙亚男等（2016）、葛勇等（2020）分别测算各省份能源消费、金融资源空间流动、碳排放空间关联性以及区域科技创新联系的修正引力模型，本文通过构建如下引力模型衡量城市间创新联系强度：",
+      "text_length": 111,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "修正引力模型。参考刘华军等（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2015",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）、孙亚男等（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2016",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）、葛勇等（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2020",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）分别测算各省份能源消费、金融资源空间流动、碳排放空间关联性以及区域科技创新联系",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "的修正引力模型，本文通过构建如下引力模型衡量城市间创新联系强度：",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 183,
+      "text": "  （）（3.7）",
+      "text_length": 9,
+      "style_id": "af",
+      "pPr": {
+        "pStyle": {
+          "val": "af"
+        },
+        "jc": {
+          "val": "right"
+        }
+      },
+      "runs": [
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-34"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "  （",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-32"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "）",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "3.",
+          "rPr": {
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "7",
+          "rPr": {
+            "rFonts": {
+              "eastAsia": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 2
+    },
+    {
+      "index": 184,
+      "text": "其中，、分别表示城市、的专利授权数，、分别表示城市、的研发资金投入，、表示城市、的科学技术从业人员数量，表示城市和之间的距离。城市对的引力系数表示为，用专利授权数占比来衡量。",
+      "text_length": 87,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "其中，",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-12"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "、",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-14"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "分别表示城市",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "、",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-10"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "的专利授权数，",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-12"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "、",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-14"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "分别表示城市",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "、",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-10"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "的研发资金投入，",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-12"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "、",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-14"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "表示城市",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "、",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-10"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "的科学技术从业人员数量，",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-14"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "表示城市",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "和",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-10"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "之间的距离。城市",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "对",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-10"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "的引力系数表示为",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-14"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "，用专利授权数占比来衡量。",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 18
+    },
+    {
+      "index": 185,
+      "text": "本文选取产业结构调整指数（lilien）作为中介变量，来说明城市节点的结构性特征对城市经济韧性产生影响的作用机制。该指数由Lilien于1982年提出，用以反映产业结构的变化，并被Martin（2016）应用于区域经济韧性的研究；徐圆等人（2019）、郭将和王蓓（2020）也将该指标应用于城市经济韧性的研究。",
+      "text_length": 155,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "本文选取产业结构调整指数（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "lilien",
+          "rPr": {
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）作为中介变量，来说明城市节点的结构性特征对城市经济韧性产生影响的作用机制。该指数由",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "Lilien",
+          "rPr": {
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "于",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "1982",
+          "rPr": {
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "年提出，用以反映产业结构的变化，并被",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "Martin",
+          "rPr": {
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2016",
+          "rPr": {
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）应用于区域经济韧性的研究；徐圆等人（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2019",
+          "rPr": {
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）、郭将和王蓓（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2020",
+          "rPr": {
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）也将该指标应用于城市经济韧性的研究。",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 186,
+      "text": "计算公式为：",
+      "text_length": 6,
+      "style_id": "a",
+      "pPr": {
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "计算公式为：",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 187,
+      "text": "（3.8）",
+      "text_length": 5,
+      "style_id": "af",
+      "pPr": {
+        "pStyle": {
+          "val": "af"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体"
+            },
+            "position": {
+              "val": "-30"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "3.",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "8",
+          "rPr": {
+            "rFonts": {
+              "eastAsia": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 1
+    },
+    {
+      "index": 188,
+      "text": "其中，表示时期行业就业人数占城市各行业就业人数之和的比重，表示时期城市各行业就业人数占全国各行业就业人数之和的比重。",
+      "text_length": 58,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "其中，",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-12"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "表示",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "时期",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "行业就业人数占",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-4"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "城市各行业就业人数之和的比重，",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-10"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "表示",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "时期",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-4"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "城市各行业就业人数占全国各行业就业人数之和的比重。",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 7
+    },
+    {
+      "index": 189,
+      "text": "此外，本文选择产业结构相关多样性指数作为调节变量，产业结构多样化指数为整体回归中的控制变量。Frenken（2007）最早利用熵指数构建产业结构多样性的相关指标。按照其定义，产业结构的多样性可表示为：",
+      "text_length": 100,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "此外，本文选择产业结构相关多样性指数作为调节变量，产业结构多样化指数为整体回归中的控制变量。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "Frenken",
+          "rPr": {
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2007",
+          "rPr": {
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）最早利用熵指数构建产业结构多样性的相关指标。按照其定义，产业结构的多样性可表示为：",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 190,
+      "text": "（3.9）",
+      "text_length": 5,
+      "style_id": "af",
+      "pPr": {
+        "pStyle": {
+          "val": "af"
+        }
+      },
+      "runs": [
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体"
+            },
+            "position": {
+              "val": "-28"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "3.",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "9",
+          "rPr": {
+            "rFonts": {
+              "eastAsia": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 1
+    },
+    {
+      "index": 191,
+      "text": "表示城市在时期的产业多样化水平。产业多样化水平可分解为相关多样化和无关多样化，其中，相关多样化程度可表示为：",
+      "text_length": 54,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-10"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "表示城市",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-4"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "在",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "时期的产业多样化水平。产业多样化水平可分解为相关多样化和无关多样化，其中，相关多样化程度可表示为：",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 3
+    },
+    {
+      "index": 192,
+      "text": " （）（3.10）",
+      "text_length": 9,
+      "style_id": "af",
+      "pPr": {
+        "pStyle": {
+          "val": "af"
+        }
+      },
+      "runs": [
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体"
+            },
+            "position": {
+              "val": "-30"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": " （",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体"
+            },
+            "position": {
+              "val": "-34"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "）",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "3.1",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "0",
+          "rPr": {
+            "rFonts": {
+              "eastAsia": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "eastAsia": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 2
+    },
+    {
+      "index": 193,
+      "text": "其中，假定该地区个小类行业分布在（<）个大类行业中，那么大类行业（=1，2，...，）的就业占比为其包括的小类行业的就业占比之和，即",
+      "text_length": 66,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "其中，假定该地区",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "个小类行业分布在",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "<",
+          "rPr": {
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "）个大类行业中，那么大类行业",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-10"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-10"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "=",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "1",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "，",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2",
+          "rPr": {
+            "rFonts": {
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "，...，",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-6"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        },
+        {
+          "text": "）的就业占比为其包括的小类行业的就业占比之和，即",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "宋体",
+              "hint": "eastAsia"
+            },
+            "position": {
+              "val": "-30"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 1
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 8
+    },
+    {
+      "index": 194,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 195,
+      "text": "五、研究方案（技术路线）（文档标题）",
+      "text_length": 18,
+      "style_id": "1",
+      "pPr": {
+        "pStyle": {
+          "val": "1"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "五、",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "lang": {
+              "val": "zh-CN"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "研究方案（技术路线）",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "lang": {
+              "val": "zh-CN"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "（文档标题）",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "color": {
+              "val": "FFFFFF"
+            },
+            "lang": {
+              "val": "zh-CN"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 196,
+      "text": "   ",
+      "text_length": 3,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "  ",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "仿宋_GB2312",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            },
+            "lang": {
+              "val": "zh-CN"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": " ",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 197,
+      "text": "本项目首先使用就业数据测度了2007-2018年三大城市群共46座城市的经济韧性；其次利用引力模型建立了三大城市群内部的创新联系，刻画并分析了创新联系网络的时空演变格局；最后运用双向固定效应模型实证分析了城市在创新联系网络中的结构特征与经济韧性的联系以及作用机制。研究内容将分为以下几个部分：第一部分为引言，包括研究背景",
+      "text_length": 241,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "本项目首先使用就业数据测度了",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2007-2018",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "年三大城市群共",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "46",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "座城市的经济韧性；其次利用引力模型建立了三大城市群内部的创新联系，刻画并分析了创新联系网络的时空演变格局；最后运用双向固定效应模型实证分析了城市在创新联系网络中的结构特征与经济韧性的联系以及作用机制。研究内容将分为以下几个部分：第一部分为引言，包括研究背景和意义、文献综述以及研究内容和思路；第二部分为理论基础及假设；第三部分为模型和数据，包括模型设定和关键指标的测算；第四部分为实证分析；第五部分为为结论和政策建议。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 198,
+      "text": "本文运用到的研究方法如下：",
+      "text_length": 13,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "本文运用到的研究方法如下：",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 199,
+      "text": "（1） 文献分析。通过查阅国内外期刊、网络文献、会议报告、学位论文、图书专著等方面的资料，结合研究内容，系统梳理了经济韧性、城市创新联系网络、产业结构多样性的概念、测算以及相互作用，在此基础上提出相关假设。",
+      "text_length": 103,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "1",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": " ",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "文献分析。通过查阅国内外期刊、网络文献、会议报告、学位论文、图书专著等方面的资料，结合研究内容，系统梳理了经济韧性、城市创新联系网络、产业结构多样性的概念、测算以及相互作用，在此基础上提出相关假设。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 200,
+      "text": "（2） 城市科技创新引力模型。基于相关研究，本文利用修正的引力模型对三大城市群主要城市间的创新联系强度进行测定，在此基础上构建城市群创新联系网络，并进行创新联系网络的格局演变分析和网络结构特征指标的计算。",
+      "text_length": 102,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": " ",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "城市科技创新",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "引力模型。基于相关研究，本文利用修正的引力模型对三大城市群主要城市间的创新联系强度进行测定，在此基础上构建城市群创新联系网络，并进行创新联系网络的格局演变分析和网络结构特征指标的计算。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 201,
+      "text": "（3） 社会网络分析。基于网络分析的视角，本文从中心性和枢纽性两个方面对城市个体网络的结构特征进行分析。其中，选取点度中心度、接近中心度表征城市节点的中心性特征，选取限制度来表征城市节点的枢纽性特征。",
+      "text_length": 100,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "3",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": " ",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "社会网络分析。基于网络分析的视角，本文从中心性和枢纽性两个方面对城市个体网络的结构特征进行分析。其中，选取点度中心度、接近中心度表征城市节点的中心性特征，选取限制度来表征城市节点的枢纽性特征。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 202,
+      "text": "（4） 面板回归。利用2007-2018年46座城市的面板数据，以城市经济韧性为被解释变量，城市群创新联系网络的结构特征变量为解释变量探究城市群创新联系网络对其经济韧性的影响，并基于产业结构视角探究其背后的作用机制。",
+      "text_length": 108,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "4",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": " ",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "面板回归。利用",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "2007-2018",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "年",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "46",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "座城市的面板数据，以城市经济韧性为被解释变量，城市群创新联系网络的结构特征变量为解释变量探究城市群创新联系网络对其经济韧性的影响，并基于产业结构视角探究其背后的作用机制。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 203,
+      "text": "（5）采用Nvivo政策文本分析软件和Python机器学习典型案例数据库相结合的方法，基分析政策法规与制度体系变迁，了解政策主题演变以及扩散程度。",
+      "text_length": 73,
+      "style_id": "a",
+      "pPr": {
+        "snapToGrid": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "360",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLineChars": "200",
+          "firstLine": "480"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "（",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "5",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "）采用",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "Nvivo",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "政策文本分析软件和",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "Python",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "机器学习典型案例数据库相结合的方法，基分析政策法规与制度体系变迁，了解政策主题演变以及扩散程度。",
+          "rPr": {
+            "rFonts": {
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 204,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 205,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 206,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 207,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 208,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 209,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 210,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 211,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "",
+          "rPr": {
+            "noProof": true
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 1,
+      "ole_count": 0
+    },
+    {
+      "index": 212,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 213,
+      "text": "图2 技术路线图",
+      "text_length": 8,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "jc": {
+          "val": "center"
+        },
+        "rPr": true
+      },
+      "runs": [
+        {
+          "text": "图2",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "仿宋_GB2312",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            },
+            "lang": {
+              "val": "zh-CN"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": " ",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "仿宋_GB2312"
+            },
+            "sz": {
+              "val": "24"
+            },
+            "lang": {
+              "val": "zh-CN"
+            }
+          },
+          "objects": 0
+        },
+        {
+          "text": "技术路线图",
+          "rPr": {
+            "rFonts": {
+              "ascii": "宋体",
+              "hAnsi": "宋体",
+              "cs": "仿宋_GB2312",
+              "hint": "eastAsia"
+            },
+            "sz": {
+              "val": "24"
+            },
+            "lang": {
+              "val": "zh-CN"
+            }
+          },
+          "objects": 0
+        }
+      ],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 214,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 215,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 216,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 217,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 218,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 219,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 220,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 221,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 222,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 223,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 224,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 225,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 226,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 227,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "spacing": {
+          "line": "276",
+          "lineRule": "auto"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    },
+    {
+      "index": 228,
+      "text": "",
+      "text_length": 0,
+      "style_id": "a",
+      "pPr": {
+        "autoSpaceDE": {
+          "val": "0"
+        },
+        "autoSpaceDN": {
+          "val": "0"
+        },
+        "adjustRightInd": {
+          "val": "0"
+        },
+        "rPr": true
+      },
+      "runs": [],
+      "drawing_count": 0,
+      "ole_count": 0
+    }
+  ],
+  "section": {
+    "page_width_twips": 12240,
+    "page_height_twips": 15840,
+    "top_margin_twips": 1440,
+    "bottom_margin_twips": 1440,
+    "left_margin_twips": 1800,
+    "right_margin_twips": 1800,
+    "header_distance_twips": 720,
+    "footer_distance_twips": 720,
+    "different_first_page_header_footer": false,
+    "header_text": "",
+    "footer_text": ""
+  },
+  "package_parts": {
+    "[Content_Types].xml": {
+      "bytes": 2752,
+      "sha256": "3848520789be5c6386f6130b324e7a3eac816a583aaf3a997205d243aa2e3b5b"
+    },
+    "_rels/.rels": {
+      "bytes": 590,
+      "sha256": "e19238d7a71fa7a2490776252686f70e2de6238c87cd509b5e3a3cc07c2ea4df"
+    },
+    "word/document.xml": {
+      "bytes": 347472,
+      "sha256": "3185c90a1635f13565de07d00e68c6e0b2c85ddd82b2d505850958f446274c96"
+    },
+    "word/_rels/document.xml.rels": {
+      "bytes": 23054,
+      "sha256": "9cc8d9a202fc853af1eaafad851cc3a346687bdda5db7beef206c6fc10424c89"
+    },
+    "word/footnotes.xml": {
+      "bytes": 3056,
+      "sha256": "56686558b74dba06eefc4d4364162e0edfb31c3aee84a55850bbe0903aaaa1d4"
+    },
+    "word/endnotes.xml": {
+      "bytes": 3050,
+      "sha256": "2cfa1b6b219678ebfa46b132b7964ae81f6f54ef4f773df2d889d15538cde945"
+    },
+    "word/media/image76.png": {
+      "bytes": 135367,
+      "sha256": "fb1d9f169b3b70cf82b0b04168f10754fea9116768ca75e8bd33dd5ba3c2f808"
+    },
+    "word/theme/theme1.xml": {
+      "bytes": 7083,
+      "sha256": "0439fef0139c3f80adde5187b49473df48fbec4997682cc2e8b486ad45101c69"
+    },
+    "word/media/image72.wmf": {
+      "bytes": 336,
+      "sha256": "a74f10745130e4c1b9677165d8a4b8dc08a7a7b223822ae4a653a43f1da78bed"
+    },
+    "word/media/image1.png": {
+      "bytes": 12293,
+      "sha256": "af6be7abda5e399445de157f141a5f31ba0db3eb40b708dc7f01dfab5255a2a7"
+    },
+    "word/media/image2.png": {
+      "bytes": 12293,
+      "sha256": "af6be7abda5e399445de157f141a5f31ba0db3eb40b708dc7f01dfab5255a2a7"
+    },
+    "word/media/image3.wmf": {
+      "bytes": 1140,
+      "sha256": "5da33ddb5f5d65f259f11d9ef1dd87da5e4a7ece949b58adbcaa252afd94dc77"
+    },
+    "word/embeddings/oleObject1.bin": {
+      "bytes": 3584,
+      "sha256": "9d2d0bb34320baa3fd68cf82ba58e2fcf357ff47e9afeacbba470fdfa8311767"
+    },
+    "word/media/image4.wmf": {
+      "bytes": 1516,
+      "sha256": "e267debcb8dc8fb60257513d72181e1f71517e52eb3e498d6d451a10bc4f7d90"
+    },
+    "word/embeddings/oleObject2.bin": {
+      "bytes": 3584,
+      "sha256": "bf5fcd3ddf3e05c1b57fbb0be51f2fb2ab5347d7b7d6c2029826eb73a3cc99fb"
+    },
+    "word/media/image5.wmf": {
+      "bytes": 1520,
+      "sha256": "e4182e2a79c9ccbf240a1dc331b7ba29dfc323e404ead354327119456cc1c861"
+    },
+    "word/embeddings/oleObject3.bin": {
+      "bytes": 3584,
+      "sha256": "ea64c653faea58061c0452bedf8f2ff30314c9457720e84dfd9ab3340c47b3f2"
+    },
+    "word/media/image6.wmf": {
+      "bytes": 432,
+      "sha256": "73dd7abf64908582b557ddc0d00ca9315bdbe14638c274c35fde8c3d83122527"
+    },
+    "word/embeddings/oleObject4.bin": {
+      "bytes": 3072,
+      "sha256": "b58b26e664c0d1968cfd0302c5ef72394ea5eb1c2e4728ef96e5214cca780dc5"
+    },
+    "word/media/image7.wmf": {
+      "bytes": 336,
+      "sha256": "194336fd024309fc88ab0cbf8f03b66c2b2dd9c5471d7aa7dc6c2b96a6405674"
+    },
+    "word/embeddings/oleObject5.bin": {
+      "bytes": 3072,
+      "sha256": "a3c7d723f9a9ab1fa78d3817b001a3e9e2904ccf16082ec887d37c44f8a96542"
+    },
+    "word/media/image8.wmf": {
+      "bytes": 336,
+      "sha256": "856312c924f8cadfbb25588c1b3ff50a32a6f18c111ce13b59701e249289085d"
+    },
+    "word/embeddings/oleObject6.bin": {
+      "bytes": 3072,
+      "sha256": "5b0a19d17bfc0a49fee1d726b46f7df274062d67aaa5cfdf8119153aaf4f0233"
+    },
+    "word/media/image9.wmf": {
+      "bytes": 424,
+      "sha256": "b19994a477d986fef2299e7d7ddc8952b791159232d6acf62cc0dc9e8b4f16c7"
+    },
+    "word/embeddings/oleObject7.bin": {
+      "bytes": 3072,
+      "sha256": "a99484de5a66aabde5bc1d1a8700be71e9b068e7d132e697a9bc8e7b28611793"
+    },
+    "word/embeddings/oleObject8.bin": {
+      "bytes": 3072,
+      "sha256": "a3c7d723f9a9ab1fa78d3817b001a3e9e2904ccf16082ec887d37c44f8a96542"
+    },
+    "word/embeddings/oleObject9.bin": {
+      "bytes": 3072,
+      "sha256": "5b0a19d17bfc0a49fee1d726b46f7df274062d67aaa5cfdf8119153aaf4f0233"
+    },
+    "word/media/image10.wmf": {
+      "bytes": 428,
+      "sha256": "144f7db947137d0f9e36cb0574dc2d18723c8d4e6c436b954666e0159a57f668"
+    },
+    "word/embeddings/oleObject10.bin": {
+      "bytes": 3072,
+      "sha256": "12e60d6b41ab61be0d6589a9153c987ee9e5ca9e82af7a226809755a08a6243d"
+    },
+    "word/media/image11.wmf": {
+      "bytes": 424,
+      "sha256": "dad5e847f5d90e05765fb17601f471d6cb0e05599622f15a1d5fa682ae9d20db"
+    },
+    "word/embeddings/oleObject11.bin": {
+      "bytes": 3072,
+      "sha256": "2831b7d105be6842fc7ec6e707dd7c0b76dee749970b6afb4e71aa92587f1b98"
+    },
+    "word/media/image12.wmf": {
+      "bytes": 424,
+      "sha256": "5de0fa46f369c16cb9892e31cba73ffcf84e206392b13434534bd4733c1e8568"
+    },
+    "word/embeddings/oleObject12.bin": {
+      "bytes": 3072,
+      "sha256": "af9a931aa5ffb7d201ef44799f7a60472656ed8a8bffdcc45280cd006b31db58"
+    },
+    "word/media/image13.wmf": {
+      "bytes": 336,
+      "sha256": "11bfe94163adf8b7b4b713e695f50350f65d026759e9bec29b99f78d1eaf9c91"
+    },
+    "word/embeddings/oleObject13.bin": {
+      "bytes": 3072,
+      "sha256": "3e7f66db7873f3c9d7351e305b5a6081f4ce009100aa9de13f3a73cc4b2396c2"
+    },
+    "word/media/image14.wmf": {
+      "bytes": 424,
+      "sha256": "965e91545e8edddff07b76d680e957844a2cd6f31a8ac9353fa83e5955aac92f"
+    },
+    "word/embeddings/oleObject14.bin": {
+      "bytes": 3072,
+      "sha256": "c9a66944e7d064e2644a0c4634badab7d9b9c46611719a135efc0a09861e9e94"
+    },
+    "word/media/image15.wmf": {
+      "bytes": 336,
+      "sha256": "209466e57e031f8043b3fef64d7848b0b791944f7eb8f000121540896fd12f08"
+    },
+    "word/embeddings/oleObject15.bin": {
+      "bytes": 3072,
+      "sha256": "3ea538e1eeece529981d4e4e50bcb79721db8a39fbd88cafc89124827393e08e"
+    },
+    "word/media/image16.wmf": {
+      "bytes": 336,
+      "sha256": "371ea212364b9d4b11631f84c803c21a14ceb8c861bb31abff3b098e1ca8618b"
+    },
+    "word/embeddings/oleObject16.bin": {
+      "bytes": 3072,
+      "sha256": "4db7b8cbec59e788e85d35b704ea1748604c90e37a37d9813f509bac5d16aa50"
+    },
+    "word/media/image17.wmf": {
+      "bytes": 336,
+      "sha256": "0da2baea3f4a945dc55d328437f932ece33a2b918333ddb652dd6d81074e3bc4"
+    },
+    "word/embeddings/oleObject17.bin": {
+      "bytes": 3072,
+      "sha256": "66d0bc32b97609140a8483cdbf53ac54ced10ab33d4a95114cd1d5dabb3c6425"
+    },
+    "word/media/image18.wmf": {
+      "bytes": 428,
+      "sha256": "6849a58818f175ca7869c4223f6c2d350203c9207505a1392ff70e1bf20f324f"
+    },
+    "word/embeddings/oleObject18.bin": {
+      "bytes": 3072,
+      "sha256": "61a9b04383ccef4443adb4eb26b824b74fee6c24eed59f9261d544c7f4d71df0"
+    },
+    "word/media/image19.wmf": {
+      "bytes": 980,
+      "sha256": "48263292349018db006b68fd7c310de2621c236a4bc723761a4fd09bcd2e00e0"
+    },
+    "word/embeddings/oleObject19.bin": {
+      "bytes": 3584,
+      "sha256": "77b0fcd152a79d9f83b167c2a263af08e0e1748cb4f09d4fea8c6f5841bb9223"
+    },
+    "word/embeddings/oleObject20.bin": {
+      "bytes": 3072,
+      "sha256": "66d0bc32b97609140a8483cdbf53ac54ced10ab33d4a95114cd1d5dabb3c6425"
+    },
+    "word/media/image20.wmf": {
+      "bytes": 514,
+      "sha256": "96a54fc59c9dd273749d03e03a88e243eb054c637e81a6744e72a7ef71bbb158"
+    },
+    "word/embeddings/oleObject21.bin": {
+      "bytes": 3072,
+      "sha256": "e900a63cd50f47992272819403913d506afc7350324ee10aa0c8c9e37dae4f8b"
+    },
+    "word/media/image21.wmf": {
+      "bytes": 1076,
+      "sha256": "71af46545f2feadd298598e0c22fba696cb4498907472c4251ccca0be1e96ceb"
+    },
+    "word/embeddings/oleObject22.bin": {
+      "bytes": 3072,
+      "sha256": "ae4bbb63d89c08cbc08dc3908cf41711fcc9841bff9b1ef7d553cdb476aed9b8"
+    },
+    "word/media/image22.wmf": {
+      "bytes": 532,
+      "sha256": "9c166d8c8d6b8cc400735e849b8764996758bdee27ad5c2742bc17592e19a21e"
+    },
+    "word/embeddings/oleObject23.bin": {
+      "bytes": 3072,
+      "sha256": "b3dd68c1eb65fcb9af63d351e320d5da1ee5a0289f886884e50c4f4aa1c8490b"
+    },
+    "word/media/image23.wmf": {
+      "bytes": 618,
+      "sha256": "48dbb85a8e1120cc79db59a4be2924361257d10d5e5cb00944622c4b75201062"
+    },
+    "word/embeddings/oleObject24.bin": {
+      "bytes": 3072,
+      "sha256": "1b33e6142bd66efb53e65f86a7d5a656cbd4d4ae8671f835d10ba8b9f591736e"
+    },
+    "word/media/image24.wmf": {
+      "bytes": 336,
+      "sha256": "083ce27eccfd25dd27ffb17773c8ef137667f670cf9a4385a77bff55b91e9177"
+    },
+    "word/embeddings/oleObject25.bin": {
+      "bytes": 3072,
+      "sha256": "cc31440e08ff16c3527219a6917033c2838cd7df2701f8f5b8815e772db9e83c"
+    },
+    "word/media/image25.wmf": {
+      "bytes": 652,
+      "sha256": "43cd0c10085c93b3e6d0fac0b57c716f5be27ac844f85893f8565f084ad70fff"
+    },
+    "word/embeddings/oleObject26.bin": {
+      "bytes": 3072,
+      "sha256": "e7f712fc2abdd99ffafe3135f01c570b8a4ce6e24d8c5204b578702c7e716f11"
+    },
+    "word/media/image26.wmf": {
+      "bytes": 738,
+      "sha256": "36a031f2f07eb721a3ae760ea86fd9fe6cb719ef10b3dda13961966f35ccea5f"
+    },
+    "word/embeddings/oleObject27.bin": {
+      "bytes": 3072,
+      "sha256": "0673e69bfaf518a3e4336c8c42c880a58885705e9e26fa6fc2db457497864795"
+    },
+    "word/embeddings/oleObject28.bin": {
+      "bytes": 3072,
+      "sha256": "cc31440e08ff16c3527219a6917033c2838cd7df2701f8f5b8815e772db9e83c"
+    },
+    "word/media/image27.wmf": {
+      "bytes": 1056,
+      "sha256": "3b1b850bb50591a7c18bc426ad426e35c15c4d173387da1482ed69bf19b80ba6"
+    },
+    "word/embeddings/oleObject29.bin": {
+      "bytes": 3072,
+      "sha256": "851504239ad9e1aa2947ca952ee6d722fd995a6d989d1fb5d9ffd92b74a1a2a6"
+    },
+    "word/media/image28.wmf": {
+      "bytes": 440,
+      "sha256": "093dd31265f61976648c0712d9cda1758f9d69614f6a2f7f387ec38951661ca7"
+    },
+    "word/embeddings/oleObject30.bin": {
+      "bytes": 3072,
+      "sha256": "f5a1cae385565d9050556c69db7f0727d4dbed0f87cd991ec35ec885d10d1ce2"
+    },
+    "word/media/image29.wmf": {
+      "bytes": 336,
+      "sha256": "527f364d60d3db404651545f8c88ac9e6b823cc0d3554aee1f4c48b51cd73da6"
+    },
+    "word/embeddings/oleObject31.bin": {
+      "bytes": 3072,
+      "sha256": "2a582d63a69d273ba70ffa1a1e60536f5437eabba284665f73c027c9510c8a05"
+    },
+    "word/media/image30.wmf": {
+      "bytes": 616,
+      "sha256": "ec28f58becb4a2c9377618469330c8432884acaa77ff4c2bb3b3fcc78f11d503"
+    },
+    "word/embeddings/oleObject32.bin": {
+      "bytes": 3072,
+      "sha256": "29b23228101d57ec407fa55179d6ede5dbaa4f9fb674c6b477fcca1c18c23fd9"
+    },
+    "word/media/image31.wmf": {
+      "bytes": 368,
+      "sha256": "1eba53f5b46f51e8306fff6e99b0d4d3cf8cc0726efc39564d39cecb9c988efb"
+    },
+    "word/embeddings/oleObject33.bin": {
+      "bytes": 3072,
+      "sha256": "564d2c650fd693a5f2c0548bbe630a05f97c0c5b09b568b547bbbfa0394f7cb3"
+    },
+    "word/media/image32.wmf": {
+      "bytes": 336,
+      "sha256": "f995cffbddfbaa8e221e04262a431df0cca56312beedb31b1707af2faeb2eb86"
+    },
+    "word/embeddings/oleObject34.bin": {
+      "bytes": 3072,
+      "sha256": "770682aee38e209aafeaaf116ed5ebd4f5ee78063ecc1ef483ea8b59ed7dac57"
+    },
+    "word/media/image33.wmf": {
+      "bytes": 336,
+      "sha256": "88fd5c9fb07a6b903f5606f28681a10ffb1fd99a0e3f2c629dcbfa077a9f8477"
+    },
+    "word/embeddings/oleObject35.bin": {
+      "bytes": 3072,
+      "sha256": "41be2a73eb0365facd56cf12a3dc5362b485290c9a2d7c10c0a98f7337e9fe74"
+    },
+    "word/media/image34.wmf": {
+      "bytes": 1228,
+      "sha256": "98b014ff91ce0f02a9b85f8d90021c20c4f1ab0fe892f16788e9b8baa1a40e31"
+    },
+    "word/embeddings/oleObject36.bin": {
+      "bytes": 3584,
+      "sha256": "19f5a8761cce553ba9de87aeb83e0e76d8ef98287a8e7fd85dea6427d09fd5ed"
+    },
+    "word/media/image35.wmf": {
+      "bytes": 668,
+      "sha256": "d857a9e63b633a8e40f01f5e97563cd1e1f86118de0e523e2bcf8122f0f85867"
+    },
+    "word/embeddings/oleObject37.bin": {
+      "bytes": 3072,
+      "sha256": "724f0dec543fd89a6685f8f1de2498f619e8f9a9a3732b01945292eca46539bc"
+    },
+    "word/media/image36.wmf": {
+      "bytes": 424,
+      "sha256": "24271c9dc37044f98c30e1cac1fc4062cb4ce870fc082cb6ff8fd546bbc8bd9e"
+    },
+    "word/embeddings/oleObject38.bin": {
+      "bytes": 3072,
+      "sha256": "c1658aa57a14c722d0ea0f0c12c412063511036e1a4cf69f91d4204bbaf234e6"
+    },
+    "word/media/image37.wmf": {
+      "bytes": 424,
+      "sha256": "4f2aa158985b28651defe6808bcc7b4c8d324f34612e5f20309efd43166d0c2a"
+    },
+    "word/embeddings/oleObject39.bin": {
+      "bytes": 3072,
+      "sha256": "2c83534a3c9a0e6ec36ccbce0bf5bc83edaa192cbe5ee5f9ce027c6315540bcb"
+    },
+    "word/media/image38.wmf": {
+      "bytes": 336,
+      "sha256": "7c50a11286d9e386d84e50e75b5bbc260bd8888d05da2fb5ce0ff3754216f2c7"
+    },
+    "word/embeddings/oleObject40.bin": {
+      "bytes": 3072,
+      "sha256": "969307757ba6176e62a0881835fcdf03517c9b2d21948532055e1038faa2d3d6"
+    },
+    "word/media/image39.wmf": {
+      "bytes": 336,
+      "sha256": "a8db83ed439b8bd162b90e65c9284a6bcdaf6f0e0dbdca4c4f317dfdb570ebd0"
+    },
+    "word/embeddings/oleObject41.bin": {
+      "bytes": 3072,
+      "sha256": "5fbceb08d9111f61ce7a5eafdebe70856bd2eb6760f5cfcb3da1ec822d2e003a"
+    },
+    "word/media/image40.wmf": {
+      "bytes": 424,
+      "sha256": "c79aa3e97165200a017cc387a5a46c8cf12fffb7bed1fd20df3b8d639576a3cc"
+    },
+    "word/embeddings/oleObject42.bin": {
+      "bytes": 3072,
+      "sha256": "faf5a67c81ed8b5332047aff30463793837995b76597f1aad7ddfeb5ae223265"
+    },
+    "word/media/image41.wmf": {
+      "bytes": 424,
+      "sha256": "cf880089020c5f52accee57ccb9cbc31e422ec4688acfd32be2794db6bd71359"
+    },
+    "word/embeddings/oleObject43.bin": {
+      "bytes": 3072,
+      "sha256": "8ffcf86e88f15a34836397276c7ec511947d8a3a2bab7a672bddf8c0f239ab22"
+    },
+    "word/media/image42.wmf": {
+      "bytes": 336,
+      "sha256": "3c9a506b5be1adc354a869cbe4dd747ba3592835e1232abb7022ebfedf856e0a"
+    },
+    "word/embeddings/oleObject44.bin": {
+      "bytes": 3072,
+      "sha256": "3246b8dcd3d09d8c643b682a0f6bd294eca586a27a4b6fbda7ee617717cbc974"
+    },
+    "word/media/image43.wmf": {
+      "bytes": 336,
+      "sha256": "b9fff4d6ffcdf9b10548d558b76ec70c638155c9261c6afe49e65cedfd09c70b"
+    },
+    "word/embeddings/oleObject45.bin": {
+      "bytes": 3072,
+      "sha256": "15986a53139cddb044f2d3ac8e4706faf208e7163e5d3159fdab899cc050c578"
+    },
+    "word/media/image44.wmf": {
+      "bytes": 424,
+      "sha256": "c07aef877c2cee07197347dadcb37ca8ce1489e295ec9f520ff707a97adf3e37"
+    },
+    "word/embeddings/oleObject46.bin": {
+      "bytes": 3072,
+      "sha256": "270cdbb5bc5553048170c79f066cd19df4642e4b0944d87b81bdaf604fdeb3fc"
+    },
+    "word/media/image45.wmf": {
+      "bytes": 424,
+      "sha256": "4b5dd0b802b0068621c78968e9ca4af02a4eedf48d149c4aa3d76d93ae2a82ac"
+    },
+    "word/embeddings/oleObject47.bin": {
+      "bytes": 3072,
+      "sha256": "014043cb09d742e5a124ca24d46d2cd4e78e406980b529472568814f0e25e21f"
+    },
+    "word/media/image46.wmf": {
+      "bytes": 336,
+      "sha256": "fa709288c06fd8657dd67932eb37098c8ea0158f105c4b864f9bc098cadae32e"
+    },
+    "word/embeddings/oleObject48.bin": {
+      "bytes": 3072,
+      "sha256": "01176c80502ddea967f9a36b823148c5d39108e1f67973d0e0c67aa399b0a2db"
+    },
+    "word/media/image47.wmf": {
+      "bytes": 336,
+      "sha256": "e3df77fa9077b4dad18a59bd4cecec5c306740e64335c1e9e1a4317bb75fb2e2"
+    },
+    "word/embeddings/oleObject49.bin": {
+      "bytes": 3072,
+      "sha256": "0c5c24ccc09239e60589f79ce1021f1607f02166dcd907b6fbe088c3e567f37a"
+    },
+    "word/media/image48.wmf": {
+      "bytes": 424,
+      "sha256": "f8666a711c46d44a1b5fed41097b4e7ad2e16251a72fb82ed17162820e9b1c17"
+    },
+    "word/embeddings/oleObject50.bin": {
+      "bytes": 3072,
+      "sha256": "d1069b89bc78bc069f24fc54a1c12077e0a5b47531c0aec8d554b6b3b3a523ca"
+    },
+    "word/media/image49.wmf": {
+      "bytes": 336,
+      "sha256": "acd6bfe4af5cc19b9057c05db48c611d03228bc28ad33912e7251115b08e09fa"
+    },
+    "word/embeddings/oleObject51.bin": {
+      "bytes": 3072,
+      "sha256": "e64f4d35d8d5ae47048a90da0aa9b53ac0ea92058d3fd0a32a40c922a981be81"
+    },
+    "word/media/image50.wmf": {
+      "bytes": 336,
+      "sha256": "b0f13166cf1de3dd9b1e96d8bc0256761e485a4f80889c4de64bf4b198b12d47"
+    },
+    "word/embeddings/oleObject52.bin": {
+      "bytes": 3072,
+      "sha256": "1ceab172973b0e831cbe14058a6c4451b1aa1c5f59d325f87aaa1ab27b6bcb70"
+    },
+    "word/media/image51.wmf": {
+      "bytes": 336,
+      "sha256": "101b038eda7dca1d8f7b62f7cfb977af0b665cb76fa3b9351e640e86899fe480"
+    },
+    "word/embeddings/oleObject53.bin": {
+      "bytes": 3072,
+      "sha256": "c4417376589ed4838aa9dce9d43762f3b7e8508abba6c83211752ccf13075f4a"
+    },
+    "word/media/image52.wmf": {
+      "bytes": 336,
+      "sha256": "a7f505a02abcfcc463eb55f52eb12cae10b4753e61a65c470544549226007dd1"
+    },
+    "word/embeddings/oleObject54.bin": {
+      "bytes": 3072,
+      "sha256": "ab3ff889119d8a9dc2c5c49594659940887874b3e5397c30f7f9dfcfc3ad3d4a"
+    },
+    "word/media/image53.wmf": {
+      "bytes": 424,
+      "sha256": "2ace002cadda0ca458a826403e9f4cf248baaa8432d540a53dffedf644950096"
+    },
+    "word/embeddings/oleObject55.bin": {
+      "bytes": 3072,
+      "sha256": "a228720dd9cb17495f28c936524e7c03a74ed4b1badb0253a8242e0639df3f98"
+    },
+    "word/media/image54.wmf": {
+      "bytes": 1268,
+      "sha256": "c9c5090c9d6225086c51d10018a360130deb6c3a83be541740e8512f9627322d"
+    },
+    "word/embeddings/oleObject56.bin": {
+      "bytes": 3584,
+      "sha256": "7e4b1b96910aa37680cddab5ff42771ff9dc3f73e5a83a18fdfc65e3a4509586"
+    },
+    "word/media/image55.wmf": {
+      "bytes": 440,
+      "sha256": "da8f488d2eabc032def51534aac000d87a9bda869b4ddbec05dc9779b31b71ab"
+    },
+    "word/embeddings/oleObject57.bin": {
+      "bytes": 3072,
+      "sha256": "ba0c29c737d4220285a56f1011b7ff84f2aeea4f476f4029c4b494cee7265293"
+    },
+    "word/media/image56.wmf": {
+      "bytes": 336,
+      "sha256": "0eef3fa1c8dab8d265931374442be6b49d5f8a991b83d60ace9b27a4aa8535af"
+    },
+    "word/embeddings/oleObject58.bin": {
+      "bytes": 3072,
+      "sha256": "07c0f7e60a6ae3642f469ebaa433f2914a0993dea7b9682693a71566b74f0d6e"
+    },
+    "word/media/image57.wmf": {
+      "bytes": 336,
+      "sha256": "1734791933dea22e9a007ae98284bf75fefa8ca9c4384583d23b946dafc3f468"
+    },
+    "word/embeddings/oleObject59.bin": {
+      "bytes": 3072,
+      "sha256": "fcd867413b5fb22f353415a07f6806189c2dd49fcc2f90970b2be1ec012a2295"
+    },
+    "word/media/image58.wmf": {
+      "bytes": 336,
+      "sha256": "6421bfca2f443933fde39925d77aafbc8d1c2e21274b6ff1b20240dfc09343a6"
+    },
+    "word/embeddings/oleObject60.bin": {
+      "bytes": 3072,
+      "sha256": "c0007cf02954591648bbc75921bff6485b97cd87a8f0d45eea4b09523f1da2aa"
+    },
+    "word/media/image59.wmf": {
+      "bytes": 440,
+      "sha256": "b71a6c378562a4bb7aa11f9880fcf1e411ce1ec8b216e610cd7c64942581d765"
+    },
+    "word/embeddings/oleObject61.bin": {
+      "bytes": 3072,
+      "sha256": "ae8a766876d5f869a6a68a09e3898d260cf92bd233d749964fed0c653580e0a0"
+    },
+    "word/media/image60.wmf": {
+      "bytes": 336,
+      "sha256": "a865467aada7bb22f14e79d96b8dd2cc0b75dbfead6e6f33c2eebd459b0f5fa4"
+    },
+    "word/embeddings/oleObject62.bin": {
+      "bytes": 3072,
+      "sha256": "a50eebb688675ca15957bcec32cbf97913525385b3133710485c1b3c465d097b"
+    },
+    "word/embeddings/oleObject63.bin": {
+      "bytes": 3072,
+      "sha256": "f134dc036e838b4bda4baeb58285296b049421872a0eb7dc041d28583e4e43aa"
+    },
+    "word/media/image62.wmf": {
+      "bytes": 1088,
+      "sha256": "ea0dac332cadceeadb6d2ae77bc94bb7e630fef255f79c0dfeadc147bfaa39a3"
+    },
+    "word/embeddings/oleObject64.bin": {
+      "bytes": 3072,
+      "sha256": "e80c5635e625dcbef3f13a10169fc975ebd3d339cacc0815934724d4d4cee04f"
+    },
+    "word/media/image63.wmf": {
+      "bytes": 442,
+      "sha256": "5c31e6799785bf366e67649d7e6af63733e5956ade0b921852ab3a2d37d5c3f1"
+    },
+    "word/embeddings/oleObject65.bin": {
+      "bytes": 3072,
+      "sha256": "107d368d558f7676c276ed0b8406d794218eac6adb5f6c7c69a50f3c5cebac0f"
+    },
+    "word/media/image64.wmf": {
+      "bytes": 336,
+      "sha256": "6681d8e82bc52a0d6d4fdaac34ff2e9b7a7d773c08c6cff870d2b9108639bc39"
+    },
+    "word/embeddings/oleObject66.bin": {
+      "bytes": 3072,
+      "sha256": "b3e7ff2bd5375754bdb8d8a149bf0297695379baf3eea3112b1d17cf7b3d4d9a"
+    },
+    "word/media/image65.wmf": {
+      "bytes": 336,
+      "sha256": "bded243b076765ae1e7ff772733c05f97a751c85030de826dd6b8d9195e38665"
+    },
+    "word/embeddings/oleObject67.bin": {
+      "bytes": 3072,
+      "sha256": "82bfe39598d8ff19df15d36ca40c4fd18d626aa0fa24d21c413e39919a99dade"
+    },
+    "word/media/image66.wmf": {
+      "bytes": 920,
+      "sha256": "7412d90a9e802346c8fb739e34bc9fef7bd8aef745e7d4e34364b9ec8af28c89"
+    },
+    "word/embeddings/oleObject68.bin": {
+      "bytes": 3072,
+      "sha256": "31d393e9c0d19d55394195de87a57097a5833d8b7517decd2e3a788e02e2e7ec"
+    },
+    "word/media/image67.wmf": {
+      "bytes": 1130,
+      "sha256": "ba63b6795b0cb10de1f0257913298bd8cb0457196bb4eb1794032970fc03f373"
+    },
+    "word/embeddings/oleObject69.bin": {
+      "bytes": 3072,
+      "sha256": "4729f1abe0ea29a596031aeaad80238ab6e3630fcfd0ba25ba2b8231dcdef6c9"
+    },
+    "word/media/image68.wmf": {
+      "bytes": 336,
+      "sha256": "9716478a853f2c51011d0cbb87b73b8ccbe5c1974de64c4728f8cdfba24548b2"
+    },
+    "word/embeddings/oleObject70.bin": {
+      "bytes": 3072,
+      "sha256": "7e533e1b9ba9398bbab11bd3d109e5e0e73f204fce0938a3a382ec6d2a3e5f92"
+    },
+    "word/media/image69.wmf": {
+      "bytes": 336,
+      "sha256": "4042570787ddfc7cd195dac95261e08e657dfe135b237d3a0946d2b0508cabac"
+    },
+    "word/embeddings/oleObject71.bin": {
+      "bytes": 3072,
+      "sha256": "0659aeb4db60751f74090315c59b86af24c3a9dad0b3c05f24bdb0aa5593a5a6"
+    },
+    "word/media/image70.wmf": {
+      "bytes": 336,
+      "sha256": "2cc6a4940f4026bb81967fea2f4736c1fa5b1c762003cfb42c0c300c167fe363"
+    },
+    "word/embeddings/oleObject72.bin": {
+      "bytes": 3072,
+      "sha256": "8229a4115ec43282e709e67ab99cdec40f794e0b829394f053d4ff14dfe7c80f"
+    },
+    "word/media/image71.wmf": {
+      "bytes": 336,
+      "sha256": "35ff3e9b53579ee7b4f480e50e5a5a51d3627e67ed96d7e53351d99650925bca"
+    },
+    "word/embeddings/oleObject73.bin": {
+      "bytes": 3072,
+      "sha256": "67964c8024d801c8c307dcda5939cfc2052d7d4602a41473730e61ad6db4a3a7"
+    },
+    "word/media/image61.wmf": {
+      "bytes": 336,
+      "sha256": "aba76f79e3b85daa01afb017e5aec902634819070094feb5e235657416fbb4c1"
+    },
+    "word/embeddings/oleObject74.bin": {
+      "bytes": 3072,
+      "sha256": "bd896fbfa271c4fabffa581d528038ed3a55c488e9deb5fe1b2caa1cbeb7d68b"
+    },
+    "word/media/image73.wmf": {
+      "bytes": 336,
+      "sha256": "5791d2251dff2249f154dbe2ec7a3f99e6b36e34bf88d3e1c51ff9b3ae9b46d6"
+    },
+    "word/embeddings/oleObject75.bin": {
+      "bytes": 3072,
+      "sha256": "be445b59db89f337c2ba82b899fbb3300546eeaac3eaa9a426fca19c6ee64cd3"
+    },
+    "word/media/image74.wmf": {
+      "bytes": 336,
+      "sha256": "b64b5f352cb89e5c72c2a8148357dd5e9578b652f8eb56ba32152a29e23f132a"
+    },
+    "word/embeddings/oleObject76.bin": {
+      "bytes": 3072,
+      "sha256": "a8e821f303dcfe685e69a244f10a8bbb8da5df7516ae1748f0ef8ab4e8ea9000"
+    },
+    "word/media/image75.wmf": {
+      "bytes": 784,
+      "sha256": "8fe3fa99ffda64195664fce62be1275b34cfe02bc5d465ac63dc2d07528c4312"
+    },
+    "word/embeddings/oleObject77.bin": {
+      "bytes": 3072,
+      "sha256": "a0a034ed9f534d10b260d8532a9f760552406b2e2e602887fc9ef19048877f92"
+    },
+    "word/glossary/document.xml": {
+      "bytes": 3293,
+      "sha256": "8e8d3a6b6b7583dc09ea6b350934985945cc4ed2ab99479c4cfe44ecf591633c"
+    },
+    "word/glossary/settings.xml": {
+      "bytes": 3403,
+      "sha256": "42a7b021b7cef07f4ebf116b393f0a8fd3438782617f2a28d3a30a94a3b27e48"
+    },
+    "word/settings.xml": {
+      "bytes": 6223,
+      "sha256": "b67baec80d361a00d24282c38a3e1c5bba70cac225545acd27d0a31a7c25992a"
+    },
+    "word/glossary/_rels/document.xml.rels": {
+      "bytes": 685,
+      "sha256": "6a5cb307510ec859954146b9b86e3884fa5b108ee3701a21427d0efc883352b9"
+    },
+    "customXml/item1.xml": {
+      "bytes": 284,
+      "sha256": "9cc1cfce036986f05b67629ec346c2df162585efcdb44b5d1372a3e4efc8ee83"
+    },
+    "customXml/itemProps1.xml": {
+      "bytes": 341,
+      "sha256": "1ec135351f3dbfa5f213990b2dc8f558e6da691e6d0f613807709ac1bca39698"
+    },
+    "word/numbering.xml": {
+      "bytes": 6896,
+      "sha256": "892e3e1cea8894b240e14c5b8ad84e373427ffb66d7f2464e133631dcc540b1f"
+    },
+    "word/glossary/styles.xml": {
+      "bytes": 29809,
+      "sha256": "c583eaab8119aee9a7d830fb2d5fffcac40cd6ce69436b0a1f554ed526e41d55"
+    },
+    "word/glossary/webSettings.xml": {
+      "bytes": 1069,
+      "sha256": "f2f6fe7679634963bf49bae65f941f41934de42ceeb3a806afac4bab92274853"
+    },
+    "word/glossary/fontTable.xml": {
+      "bytes": 3767,
+      "sha256": "2c36441e425e8555f8c9f9f09132b0284d069d3345977046af089dca8b8c3a65"
+    },
+    "word/webSettings.xml": {
+      "bytes": 1083,
+      "sha256": "4a225c07c64feb7f5e4ef8b4444bfe94c0f81e35cb00632fef988cf909172f82"
+    },
+    "docProps/core.xml": {
+      "bytes": 712,
+      "sha256": "5eccba55587d7de563337093e0a6d89ba6a0b5c246b3a8b7cc007d16a2e485bf"
+    },
+    "docProps/app.xml": {
+      "bytes": 726,
+      "sha256": "d504cefd9f38e31c0e354ddf6260e631980e91aa2950f3e6e5f6a7ef808ad4e9"
+    },
+    "word/styles.xml": {
+      "bytes": 33131,
+      "sha256": "4690576cb14670e478ae52920d2e89d67b052100ca45407b706b83326c1f65ed"
+    },
+    "customXml/_rels/item1.xml.rels": {
+      "bytes": 296,
+      "sha256": "80482f86e196171d66001e0e74d1900408a3aaf2463e54005d251b5f2db9a0b0"
+    },
+    "word/fontTable.xml": {
+      "bytes": 3204,
+      "sha256": "fb3fe919d50c7c9738ebcbc843069c7254ca630702cdd4d2764babbcaccaff0d"
+    }
+  }
+}

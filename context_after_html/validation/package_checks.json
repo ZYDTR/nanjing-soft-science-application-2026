@@ -1,0 +1,124 @@
+{
+  "date": "2026-09-24",
+  "original_files_unchanged": 28,
+  "original_files": [
+    {
+      "path": "2023RR软科学_A.docx",
+      "sha256": "ddeff002de83f46497c4b40ebafc76b3ddf892d066c91b872eee20ce85ee762c"
+    },
+    {
+      "path": "2023RR软科学_B.docx",
+      "sha256": "8b7be4e7749d6b6418838fbe9656ed6678b805dd3620c97585977dfcf52ed622"
+    },
+    {
+      "path": "学姐ppt与论文pdf/212403 邹倩圆答辩.pptx",
+      "sha256": "070a3ede6b5a4880e22acfac716d0ba5deddccdde3d25b0cabf6b763a37304dd"
+    },
+    {
+      "path": "学姐ppt与论文pdf/土地利用视角的长江经济带碳排放权分配研究-212403 邹倩圆.pdf",
+      "sha256": "a60112ee907a4c83fc647b5c60f2a2cee853c8b070493eb6463f13dd23df1f70"
+    },
+    {
+      "path": "学长论文-江苏省建筑业低碳发展的治理机制.pdf",
+      "sha256": "9dd2b120c72af451cc4300352a3bcfb3e9c81a59bbb082ec09009e4ffe5edbad"
+    },
+    {
+      "path": "文件说明与撰写要求.md",
+      "sha256": "fa63db1ee25879f79e99fd4012c43c7a70522915f6fc5509e754dee6b9f1358f"
+    },
+    {
+      "path": "文献参考（老师找的）/中国高技术产业创新系统资源配置效率与优化研究_杜明月.caj",
+      "sha256": "7884d10e2499c1446f6896aeaf3404c862fd4419af75c7101038a3d30fce42c8"
+    },
+    {
+      "path": "文献参考（老师找的）/产业链协同创新下制造企业转型升级的资源配置有效组态及对策研究_陈白雪.caj",
+      "sha256": "8e31b6471748cf26ee8a600c254519a84b484367ed291f19d608a7559e23bb90"
+    },
+    {
+      "path": "文献参考（老师找的）/创新型国家的研发资源配置效率研究_何佳.caj",
+      "sha256": "ebf92f23965fb9f70499e9c0b4f818c4f9fdd5ef6ef8ebaed29a87eab44e7de6"
+    },
+    {
+      "path": "文献参考（老师找的）/创新资源配置对中国区域创新驱动影响研究_郝铖文(1).caj",
+      "sha256": "7f83d87c645d77dacfa1be591c23f73abb662236d6a0c47a984fd81d36d03017"
+    },
+    {
+      "path": "文献参考（老师找的）/创新集群知识资源配置模式研究_梁晨(1).caj",
+      "sha256": "6451f8dd32b152037e1beafdbce6efe50e5abe68d21dfa2b03d92e5e6dfe7056"
+    },
+    {
+      "path": "文献参考（老师找的）/区域创新系统资源配置效率的演进规律与创新机制研究_王亮.caj",
+      "sha256": "8bf4cdfff2fa9b3ee0341093669e10d3cb3629f2964e2121c30b1f23c53dae3e"
+    },
+    {
+      "path": "文献参考（老师找的）/区域创新资源配置系统的差异性研究_孙夙鹏.caj",
+      "sha256": "de03f63f54143cb632bb2cf9567648a265ffbb58712104573c87f31ea87f2b4c"
+    },
+    {
+      "path": "文献参考（老师找的）/基于DEA-MI的2011协同创新中心资源配置效率研究_潘思文.caj",
+      "sha256": "4b582c04fd2d482ebd0eb09f3123e37b72282443aa0bba88d636ea52fb0abea2"
+    },
+    {
+      "path": "文献参考（老师找的）/基于协同理论的科技资源配置对国家创新能力提升机制研究_冯陈澄.caj",
+      "sha256": "b56287f946699d01977e46b8cc1662c00df7a6bbae16e74f910a4e1e0444eabe"
+    },
+    {
+      "path": "文献参考（老师找的）/基于科技计划的区域科技创新资源配置系统优化研究_王雪原.caj",
+      "sha256": "db443e217413caeb11ed19c62059eefb2513293c97097025ab4dbd8b07b0224f"
+    },
+    {
+      "path": "文献参考（老师找的）/广州创新型城市建设的创新资源配置研究_何志妹.caj",
+      "sha256": "4e7c1a753e17d7b7f5d51c809881abd6200f27842694b5077793d9abd0860cff"
+    },
+    {
+      "path": "文献参考（老师找的）/我国区域创新资源配置效率研究_金中杰.caj",
+      "sha256": "530e2dc7b12cf711261ced7c791bd999dc376cc34fe77dbc07d5680dc966c8ce"
+    },
+    {
+      "path": "文献参考（老师找的）/武汉市创新资源动态演化及配置效果评价研究_黄燕婷.caj",
+      "sha256": "86ec9cc5d213d312b60f27e79ce3a2fd4b078d8073b0c1937f99b4e40abd7c13"
+    },
+    {
+      "path": "文献参考（老师找的）/江苏省区域创新资源配置研究_陈才华.caj",
+      "sha256": "aa81152bbdd3d75b343a747280d794457104ceeff832a3725fee271db3a76c94"
+    },
+    {
+      "path": "文献参考（老师找的）/浙江省区域创新资源配置的研究_陈瑶瑶(1).caj",
+      "sha256": "684500fc1f7dc4d1e01d5fdb37a45ebac196a2666a35787b04f0db499ca84ffc"
+    },
+    {
+      "path": "文献参考（老师找的）/科技创新资源配置效率测度及提升组态路径研究_冯兆奎.caj",
+      "sha256": "98cf048ea0b5f2544539413a347cdfb57733b227018e55e4f49ebd6d4843b6b3"
+    },
+    {
+      "path": "文献参考（老师找的）/科技协同创新及资源优化配置管理模式研究_陈国勋.caj",
+      "sha256": "b43bd5be9acf43b0a59b11a3b4f2334a2c95b57b7afae533cc8656193febb26c"
+    },
+    {
+      "path": "文献参考（老师找的）/第三部门：资源配置的制度创新_曹永森(1).caj",
+      "sha256": "e043f740f87de6ae4e257ba75fe6913413ad4c654106e65e6d5b3c6b61ceca88"
+    },
+    {
+      "path": "文献参考（老师找的）/资源整合视角下企业网络权力配置与创新能力的提升_鲁东琴.caj",
+      "sha256": "ed9674b45194eb7e7682268769681019e5d3a4e0da38e7a26b12244f2ba8edbe"
+    },
+    {
+      "path": "文献参考（老师找的）/资源配置视角下协同创新网络与企业成长的关系研究_吴钊阳(1).caj",
+      "sha256": "7ee0b73144300bd2231609e0c72be06e22dec581a0437bec1125efea6f8b5ad6"
+    },
+    {
+      "path": "文献参考（老师找的）/陕西省创新资源配置效率研究_宋佳文(1).caj",
+      "sha256": "01afffebc0b6020b55c655ae14ee7859eb79a410cc7d6f6074fe17d79d6fbda8"
+    },
+    {
+      "path": "项目申报通知与指南及本项目申报方向与名称.md",
+      "sha256": "a73cf03ec96c46d2b16bdfbb296fa513d16bad9d85a99c6ab92b2d65aef963e0"
+    }
+  ],
+  "markdown_missing_local_links": 0,
+  "credential_pattern_hits": 0,
+  "cold_read": "passed after attribution and path corrections",
+  "pack_scope": "README plus context_after_html; original HTML supplied separately; 4 converted PDFs included",
+  "subagent": "gpt-6-sol/xhigh leaf; task tree checked; no nesting observed; root read both reports",
+  "not_validated": "No new empirical results, ZSG adaptation or MathType DOCX is claimed by this context package."
+}
